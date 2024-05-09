@@ -1,0 +1,430 @@
+﻿Hostaway reservation ID;Guest name;Check-in date;Check-out date;Channel;Total price;Currency;Airbnb expected payout amount;Number of guests;Number of nights;Status;Reservation date;Listing;Channel commission;Guest location;Guest city;Guest country;Cleaning fee;Channel Unit ID;Airbnb total paid amount;Payment status;Total paid;Remaining balance;ListingMap ID;Listing name
+23827293;Ignacio Marcos;2024.02.01;2024.02.06;bookingcom;452.52;EUR;;7;5;new;2024.01.30 9:49;Gyulai Pal 12;66.00;., ES;.;ES;80.00;1124755101;;Paid;452.52;0.00;233285;Palace District /w Gallery | Pink Flamingo
+23440013;Ignacio Marcos;2024.02.01;2024.02.06;bookingcom;0.00;EUR;;1;5;cancelled;2024.01.19 20:30;Gyulai Pal 12;43.10;., ES;.;ES;80.00;1124755101;;;294.57;-294.57;233285;Palace District /w Gallery | Pink Flamingo
+23393793;Ana Catarina Batista Ribeiro;2024.02.01;2024.02.03;bookingcom;81.29;EUR;;3;2;new;2024.01.18 16:12;Vas 4 / 2;12.04;PT;;PT;50.00;1070106303;;Paid;81.29;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+23924177;지연 김;2024.02.02;2024.02.03;airbnbOfficial;159.63;EUR;135.69;3;1;new;2024.02.01 21:05;Bajcsy59;;;;;78.88;;135.69;Paid;159.63;0.00;233291;Brand new modern flat | Pink Flamingo
+23986878;Dmirtijs Marcenko;2024.02.03;2024.02.04;bookingcom;153.47;EUR;;4;1;new;2024.02.03 18:11;Bajcsy 19;22.65;AT;;AT;80.00;1129222401;;Paid;153.47;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23943340;웅;2024.02.03;2024.02.04;airbnbOfficial;95.00;EUR;;3;1;inquiry;2024.02.02 11:19;Bajcsy59;;;;;78.88;;;;;;233291;Brand new modern flat | Pink Flamingo
+23853109;Angy;2024.02.03;2024.02.06;airbnbOfficial;300.00;EUR;;4;3;inquiry;2024.01.31 0:02;Bajcsy 19;;;;;78.88;;;;;;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23386181;Monia Vacchiano;2024.02.03;2024.02.05;bookingcom;153.00;EUR;;4;2;new;2024.01.04 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;153.00;233289;Cosy new flat in Palace District | Pink Flamingo
+23385100;Elisa Herault;2024.02.03;2024.02.08;airbnbOfficial;108000.00;HUF;87425;5;5;new;2024.01.12 15:16;Király 14;;;;;18000.00;;87425.00;Paid;108000;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+23385471;Maria Yatselenko;2024.02.04;2024.03.03;airbnbOfficial;271000.00;HUF;228667;1;28;new;2024.01.09 11:55;Vas 4 / 1;;;;;0.00;;228667.00;Paid;271000;0.00;233288;New bright flat with terrace | Pink Flamingo
+23581026;Boldizsar Teszt;2024.02.05;2024.02.06;bookingengine;173.88;EUR;;1;1;cancelled;2024.01.23 17:46;Bajcsy 19;;;;;78.88;;;;;;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23493484;Christian;2024.02.05;2024.04.15;airbnbOfficial;14616.00;EUR;;4;70;inquiry;2024.01.21 12:44;Bajcsy59;;;;;78.88;;;;;;233291;Brand new modern flat | Pink Flamingo
+23385469;俊潔 何;2024.02.05;2024.02.07;airbnbOfficial;38000.00;HUF;30761;3;2;new;2024.01.16 10:41;Vas 4 / 2;;;;;18000.00;;30761.00;Paid;38000;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+23468533;欣;2024.02.07;2024.02.11;airbnbOfficial;526.00;EUR;;5;4;inquiry;2024.01.20 17:54;Bajcsy 19;;;;;78.88;;;;;;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23385472;Harun Toeren;2024.02.07;2024.02.11;airbnbOfficial;78000.00;HUF;63141;3;4;new;2024.01.09 9:50;Vas 4 / 2;;;;;18000.00;;63141.00;Paid;78000;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+23585053;;2024.02.08;2024.02.11;airbnbOfficial;489.88;EUR;396.56;3;3;new;2024.01.23 20:03;Bajcsy 19;;;;;78.88;;396.56;Paid;489.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23427729;Rozarta Zebeli;2024.02.08;2024.02.12;bookingcom;258.81;EUR;;8;4;new;2024.01.19 13:29;Gyulai Pal 12;37.92;IT;;IT;80.00;1124755101;;Paid;258.81;0.00;233285;Palace District /w Gallery | Pink Flamingo
+23385103;Jara Gómez-Calcerrada;2024.02.08;2024.02.13;airbnbOfficial;121500.00;HUF;98355;5;5;new;2024.01.11 23:34;Király 14;;;;;18000.00;;98355.00;Paid;121500;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+23465754;Giles;2024.02.10;2024.02.17;airbnbOfficial;787.00;EUR;;3;7;inquiry;2024.01.20 16:14;Bajcsy59;;;;;78.88;;;;;;233291;Brand new modern flat | Pink Flamingo
+23495377;Neha Tailor;2024.02.11;2024.02.13;airbnbOfficial;153.33;EUR;130.33;3;2;new;2024.01.21 14:15;Vas 4 / 2;;;;;47.33;;130.33;Paid;153.33;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+24018936;Gurjit Wadhera;2024.02.12;2024.02.15;airbnbOfficial;273.88;EUR;221.71;3;3;new;2024.02.04 18:28;Bajcsy 19;;;;;78.88;;221.71;Paid;273.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+24008151;Bujinlkham;2024.02.12;2024.02.15;airbnbOfficial;195.00;EUR;;4;3;inquiry;2024.02.04 10:42;Bajcsy 19;;;;;78.88;;;;;;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23941580;Ty K;2024.02.13;2024.02.16;airbnbOfficial;318.88;EUR;271.05;5;3;new;2024.02.02 9:32;Bajcsy59;;;;;78.88;;271.05;Paid;318.88;0.00;233291;Brand new modern flat | Pink Flamingo
+23616433;Balog Zoltán;2024.02.13;2024.02.15;bookingengine;249.88;EUR;;6;2;cancelled;2024.01.24 15:30;Bajcsy 19;;;;;78.88;;;Paid;249.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23385475;Baptiste Copros;2024.02.13;2024.02.17;airbnbOfficial;78000.00;HUF;63141;3;4;new;2024.01.09 17:36;Vas 4 / 2;;;;;18000.00;;63141.00;Paid;78000;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+23384890;Paul Bühre;2024.02.13;2024.02.19;airbnbOfficial;290000.00;HUF;234757;10;6;new;2024.01.11 23:41;Gyulai Pal 12;;;;;30000.00;;234757.00;Paid;290000;0.00;233285;Palace District /w Gallery | Pink Flamingo
+23829777;Ofek;2024.02.14;2024.02.17;airbnbOfficial;320.00;EUR;;6;3;inquiry;2024.01.30 11:32;Bajcsy 19;;;;;78.88;;;;;;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23389658;Iacone Giuseppina;2024.02.14;2024.02.17;bookingcom;0.00;EUR;;1;3;cancelled;2024.01.18 14:02;Lovag 8;25.05;., IT;.;IT;35.00;1125782101;;;171.59;-171.59;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+23853931;Bleona Farruku;2024.02.15;2024.02.18;airbnbOfficial;434.00;EUR;351.32;5;3;new;2024.01.31 0:14;Bajcsy 19;;;;;79.00;;351.32;Paid;434;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23814793;Bleona;2024.02.15;2024.02.18;airbnbOfficial;355.00;EUR;;5;3;inquiryPreapproved;2024.01.30 1:03;Bajcsy 19;;;;;78.88;;;;;;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23385104;Tony Gosse;2024.02.15;2024.02.20;airbnbOfficial;117750.00;HUF;95319;6;5;new;2024.01.11 14:27;Király 14;;;;;18000.00;;95319.00;Paid;117750;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+23555018;Gustavo Machry;2024.02.17;2024.02.22;airbnbOfficial;629.88;EUR;535.4;2;5;new;2024.01.23 0:16;Bajcsy59;;;;;78.88;;535.40;Paid;629.88;0.00;233291;Brand new modern flat | Pink Flamingo
+23385476;Gabriel Hernandez Gomez;2024.02.17;2024.02.21;airbnbOfficial;78000.00;HUF;63141;4;4;new;2024.01.09 12:26;Vas 4 / 2;;;;;18000.00;;63141.00;Paid;78000;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+24243402;Andreea Cuzdriorean;2024.02.18;2024.02.20;airbnbOfficial;179.00;EUR;144.9;6;2;new;2024.02.10 8:23;Bajcsy 19;;;;;79.00;;144.90;Paid;179;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+24225757;Andreea;2024.02.18;2024.02.20;airbnbOfficial;100.00;EUR;;6;2;inquiryPreapproved;2024.02.09 21:14;Bajcsy 19;;;;;78.88;;;;;;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23471321;Iosif Zoltan Takacs;2024.02.18;2024.02.21;bookingcom;0.00;EUR;;1;3;cancelled;2024.01.20 19:23;Lovag 8;20.91;., RO;.;RO;35.00;1125782101;;;143.03;-143.03;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+24328886;Elli Strauven-Dejean;2024.02.20;2024.02.24;airbnbOfficial;273.88;EUR;0;3;4;cancelled;2024.02.12 23:10;Gyulai Pal 12;;;;;78.88;;0.00;;273.88;0.00;233285;Palace District /w Gallery | Pink Flamingo
+23583078;阳 韩;2024.02.20;2024.02.23;airbnbOfficial;363.88;EUR;294.56;3;3;new;2024.01.23 19:02;Bajcsy 19;;;;;78.88;;294.56;Paid;363.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23385105;Elio Scognamiglio;2024.02.20;2024.02.24;airbnbOfficial;91250.00;HUF;73865;6;4;new;2024.01.12 19:25;Király 14;;;;;20000.00;;73865.00;Paid;91250;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+24065116;Hamza Khattabi;2024.02.21;2024.02.23;bookingcom;136.92;EUR;;4;2;modified;2024.02.05 20:18;Vas 4 / 2;20.10;., GB;.;GB;50.00;1070106303;;Paid;136.92;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+24691610;Balázs;2024.02.22;2024.02.28;airbnbOfficial;235.43;EUR;0;1;6;declined;2024.02.22 10:44;Lovag 8;;;;;47.33;;0.00;;;;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+24418681;Fadi Dakdouk;2024.02.22;2024.02.27;airbnbOfficial;212.33;EUR;0;1;5;cancelled;2024.02.15 12:07;Lovag 8;;;;;47.33;;0.00;;212.33;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+24176990;Nicolai Eggertsen;2024.02.22;2024.02.26;airbnbOfficial;398.88;EUR;339.05;4;4;new;2024.02.08 16:34;Bajcsy59;;;;;78.88;;339.05;Paid;398.88;0.00;233291;Brand new modern flat | Pink Flamingo
+24420450;Morgan Anapolsky;2024.02.23;2024.02.25;airbnbOfficial;239.00;EUR;193.47;6;2;new;2024.02.15 12:55;Bajcsy 19;;;;;79.00;;193.47;Paid;239;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+24420207;Morgan;2024.02.23;2024.02.25;airbnbOfficial;160.00;EUR;;6;2;inquiryPreapproved;2024.02.15 12:52;Bajcsy 19;;;;;78.88;;;;;;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23386173;Iason Chortis;2024.02.23;2024.02.26;bookingcom;229.50;EUR;;4;3;new;2023.12.28 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;229.50;233289;Cosy new flat in Palace District | Pink Flamingo
+23692840;John;2024.02.24;2024.02.27;airbnbOfficial;341.00;EUR;;4;3;inquiry;2024.01.26 13:57;Bajcsy59;;;;;78.88;;;;;;233291;Brand new modern flat | Pink Flamingo
+23569976;Khairi;2024.02.24;2024.02.27;airbnbOfficial;348.00;EUR;;6;3;inquiry;2024.01.23 11:54;Bajcsy 19;;;;;78.88;;;;;;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+24142762;Angela Ricci;2024.02.25;2024.02.28;airbnbOfficial;258.88;EUR;220.05;10;3;new;2024.02.07 19:42;Gyulai Pal 12;;;;;78.88;;220.05;Paid;258.88;0.00;233285;Palace District /w Gallery | Pink Flamingo
+24282878;Eero Pulkkinen;2024.02.26;2024.03.02;airbnbOfficial;438.88;EUR;373.05;3;5;new;2024.02.11 17:03;Bajcsy59;;;;;78.88;;373.05;Paid;438.88;0.00;233291;Brand new modern flat | Pink Flamingo
+24272051;영지 전;2024.02.26;2024.02.29;airbnbOfficial;348.88;EUR;282.42;4;3;new;2024.02.11 7:33;Bajcsy 19;;;;;78.88;;282.42;Paid;348.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+24271387;영지;2024.02.26;2024.02.29;airbnbOfficial;348.88;EUR;0;4;3;cancelled;2024.02.11 6:52;Bajcsy 19;;;;;78.88;;0.00;;;;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23501356;Deneva Ina;2024.02.26;2024.03.01;bookingcom;176.66;EUR;;4;4;modified;2024.01.21 18:03;Vas 4 / 2;25.86;., BG;.;BG;50.00;1070106303;;Paid;176.66;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+23434377;"Renata Chatuyeva; Rufina Bagadinova; Dilnaz Ruziyeva; Rizvangul Mussayeva";2024.02.28;2024.03.05;bookingcom;308.18;EUR;;4;6;new;2024.01.19 17:19;Lovag 8;44.85;., KZ;.;KZ;35.00;1125782101;;Paid;308.18;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+23914556;Celine Cheung;2024.02.29;2024.03.02;airbnbOfficial;273.88;EUR;232.8;10;2;new;2024.02.01 15:51;Gyulai Pal 12;;;;;78.88;;232.80;Paid;273.88;0.00;233285;Palace District /w Gallery | Pink Flamingo
+24835472;Richard Legg;2024.03.01;2024.03.07;bookingengine;356.00;EUR;;4;6;new;2024.02.26 9:33;Király 14;;Witney, GB;Witney;GB;68.00;;;Paid;356;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+24818485;Schoen Amidor;2024.03.01;2024.03.03;airbnbOfficial;157.33;EUR;133.73;4;2;new;2024.02.25 22:00;Vas 4 / 2;;;;;47.33;;133.73;Paid;157.33;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+24275167;Alex Ion;2024.03.01;2024.03.03;airbnbOfficial;359.00;EUR;290.61;6;2;new;2024.02.11 11:00;Bajcsy 19;;;;;79.00;;290.61;Paid;359;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+24273733;Alex;2024.03.01;2024.03.03;airbnbOfficial;280.00;EUR;;6;2;inquiryPreapproved;2024.02.11 9:28;Bajcsy 19;;;;;78.88;;;;;;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+24236700;John Eun;2024.03.01;2024.03.04;airbnbOfficial;398.88;EUR;0;4;3;cancelled;2024.02.10 2:35;Bajcsy59;;;;;78.88;;0.00;Paid;398.88;0.00;233291;Brand new modern flat | Pink Flamingo
+23386183;Marta Demidova;2024.03.01;2024.03.02;bookingcom;0.00;EUR;;1;1;cancelled;2023.12.19 0:00;Vas 4 / 2;;PL;;PL;;1070106303;;;;;233289;Cosy new flat in Palace District | Pink Flamingo
+24023868;Noé Lonchambon;2024.03.02;2024.03.08;airbnbOfficial;488.88;EUR;415.55;7;6;new;2024.02.04 21:09;Gyulai Pal 12;;;;;78.88;;415.55;Paid;488.88;0.00;233285;Palace District /w Gallery | Pink Flamingo
+24306401;Antonia Van Ravels;2024.03.04;2024.03.08;airbnbOfficial;356.88;EUR;303.35;3;4;modified;2024.02.12 10:43;Bajcsy59;;;;;78.88;;303.35;Paid;356.88;0.00;233291;Brand new modern flat | Pink Flamingo
+24221104;Bianca Casale;2024.03.04;2024.03.07;airbnbOfficial;258.88;EUR;209.57;3;3;new;2024.02.09 17:19;Bajcsy 19;;;;;78.88;;209.57;Paid;258.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+24100288;Tai Confalonieri;2024.03.04;2024.03.18;airbnbOfficial;671.33;EUR;570.63;2;14;new;2024.02.06 17:23;Vas 4 / 1;;;;;47.33;;570.63;Paid;671.33;0.00;233288;New bright flat with terrace | Pink Flamingo
+24541089;Noam Amsallem;2024.03.07;2024.03.12;airbnbOfficial;508.00;EUR;431.8;6;5;new;2024.02.18 20:37;Király 14;;;;;68.00;;431.80;Paid;508;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+24103041;Miguel A. De Miguel;2024.03.07;2024.03.11;airbnbOfficial;658.88;EUR;533.37;3;4;modified;2024.02.06 18:54;Bajcsy 19;;;;;78.88;;533.37;Paid;658.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23665893;Menalo Adam Bozena;2024.03.08;2024.03.10;bookingcom;232.98;EUR;;8;2;new;2024.01.25 19:26;Gyulai Pal 12;34.18;HR;;HR;80.00;1124755101;;Paid;232.98;0.00;233285;Palace District /w Gallery | Pink Flamingo
+25336670;Gyorgy Mate;2024.03.09;2024.03.10;bookingcom;80.53;EUR;;2;1;new;2024.03.09 16:42;Lovag 8;11.85;., HU;.;HU;35.00;1125782101;;Paid;80.53;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+24178661;Josefina Trotz;2024.03.09;2024.03.12;airbnbOfficial;338.88;EUR;288.05;4;3;new;2024.02.08 17:29;Bajcsy59;;;;;78.88;;288.05;Paid;338.88;0.00;233291;Brand new modern flat | Pink Flamingo
+25283083;Dávid Bognár;2024.03.10;2024.03.12;airbnbOfficial;180.00;EUR;153;2;2;new;2024.03.08 7:57;Nagymezo 36;;;;;80.00;;153.00;Paid;180;0.00;248112;Hard Rock BnB | Pink Flamingo
+25342172;Myoungsuk Jang;2024.03.11;2024.03.14;google;169.50;EUR;;2;3;new;2024.03.09 19:47;Lovag 8;;Daegu, KR;Daegu;KR;50.00;;;Paid;169.5;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+24691361;Manon Bilot;2024.03.11;2024.03.14;airbnbOfficial;167.33;EUR;142.23;2;3;new;2024.02.22 10:29;Vas 4 / 2;;;;;47.33;;142.23;Paid;167.33;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+24217410;Lennie André;2024.03.12;2024.03.16;airbnbOfficial;398.88;EUR;322.9;4;4;new;2024.02.09 15:41;Bajcsy 19;;;;;78.88;;322.90;Paid;398.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+25340692;Istvanne Gall;2024.03.14;2024.03.16;bookingcom;119.85;EUR;;3;2;new;2024.03.09 18:53;Lovag 8;17.55;HU;;HU;35.00;1125782101;;Paid;119.85;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+24905709;Adam Montrose;2024.03.15;2024.03.18;airbnbOfficial;480.00;EUR;408;5;3;new;2024.02.27 20:50;Gyulai Pal 12;;;;;100.00;;408.00;Paid;480;0.00;233285;Palace District /w Gallery | Pink Flamingo
+23879385;Giulia Nucci;2024.03.15;2024.03.17;airbnbOfficial;358.88;EUR;0;9;2;cancelled;2024.01.31 17:23;Gyulai Pal 12;;;;;78.88;;0.00;;358.88;0.00;233285;Palace District /w Gallery | Pink Flamingo
+23386182;Christian Balzer;2024.03.15;2024.03.18;bookingcom;216.75;EUR;;2;3;new;2023.12.11 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;216.75;233289;Cosy new flat in Palace District | Pink Flamingo
+25521764;Krupanszky Peter;2024.03.16;2024.03.18;airbnbOfficial;170.00;EUR;144.5;1;2;new;2024.03.14 9:06;Nagymezo 36;;;;;80.00;;144.50;Paid;170;0.00;248112;Hard Rock BnB | Pink Flamingo
+24226682;Elisabet Pérez Delgado;2024.03.16;2024.03.19;airbnbOfficial;338.88;EUR;274.33;4;3;new;2024.02.09 20:11;Bajcsy 19;;;;;78.88;;274.33;Paid;338.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23436476;ALBERTO POLO CABALLERO;2024.03.16;2024.03.20;bookingcom;338.08;EUR;;3;4;modified;2024.01.19 18:32;Király 14;49.26;ES;;ES;50.00;1125830001;;Paid;338.08;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+25604033;Mariana;2024.03.17;2024.03.22;airbnbOfficial;125.00;EUR;;2;5;declined;2024.03.16 10:03;Lovag 8;;;;;50.00;;;;;;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+24942022;Andras Bodor;2024.03.17;2024.03.22;airbnbOfficial;478.88;EUR;0;4;5;cancelled;2024.02.28 18:08;Bajcsy59;;Dubai, United Arab Emirates;Dubai;United Arab Emirates;78.88;;0.00;;478.88;0.00;233291;Brand new modern flat | Pink Flamingo
+24941958;Andras;2024.03.17;2024.03.22;airbnbOfficial;400.00;EUR;;2;5;inquiry;2024.02.28 18:05;Bajcsy59;;;;;78.88;;;;;;233291;Brand new modern flat | Pink Flamingo
+25111462;Sergei Filippov;2024.03.18;2024.03.20;direct;0.00;EUR;;2;2;ownerStay;2024.03.04 4:51;Nagymezo 36;;;;;80.00;;;;;;248112;Hard Rock BnB | Pink Flamingo
+24329309;Hanna Hedges;2024.03.18;2024.03.25;airbnbOfficial;315.33;EUR;268.03;2;7;new;2024.02.12 23:21;Vas 4 / 1;;;;;47.33;;268.03;Paid;315.33;0.00;233288;New bright flat with terrace | Pink Flamingo
+24312451;Cara Zucker;2024.03.18;2024.03.21;airbnbOfficial;288.88;EUR;0;3;3;cancelled;2024.02.12 14:28;Bajcsy59;;;;;78.88;;0.00;Paid;288.88;0.00;233291;Brand new modern flat | Pink Flamingo
+24578852;Megan;2024.03.19;2024.03.24;airbnbOfficial;450.00;EUR;;2;5;inquiry;2024.02.19 19:42;Bajcsy 19;;;;;78.88;;;;;;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+24105367;Angel Romero Rodriguez;2024.03.19;2024.03.23;airbnbOfficial;247.33;EUR;210.23;3;4;new;2024.02.06 20:00;Vas 4 / 2;;;;;47.33;;210.23;Paid;247.33;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+25753666;Savann Rucker;2024.03.20;2024.03.22;airbnbOfficial;248.88;EUR;211.55;3;2;new;2024.03.20 1:09;Bajcsy59;;;;;78.88;;211.55;Paid;248.88;0.00;233291;Brand new modern flat | Pink Flamingo
+23784145;Lisa Reicherzer;2024.03.20;2024.03.23;airbnbOfficial;418.88;EUR;356.05;9;3;modified;2024.01.29 8:50;Gyulai Pal 12;;;;;78.88;;356.05;Paid;418.88;0.00;233285;Palace District /w Gallery | Pink Flamingo
+24872165;Tuncer Kaya;2024.03.21;2024.03.24;airbnbOfficial;565.00;EUR;457.37;4;3;new;2024.02.27 0:08;Bajcsy 19;;;;;80.00;;457.37;Paid;565;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+25778727;Lukacs Zoltan;2024.03.22;2024.03.23;bookingcom;80.53;EUR;;3;1;new;2024.03.20 17:29;Lovag 8;11.85;HU;;HU;35.00;1125782101;;Paid;80.53;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+25422424;Ulrich Gawantka;2024.03.22;2024.03.24;bookingcom;0.00;EUR;;1;2;cancelled;2024.03.11 21:49;Lovag 8;18.45;., DE;.;DE;35.00;1125782101;;;126.06;-126.06;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+24836599;Anna Abdalla;2024.03.22;2024.03.24;airbnbOfficial;268.00;EUR;227.8;5;2;new;2024.02.26 10:39;Király 14;;;;;68.00;;227.80;Paid;268;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+23946336;Ethan Fien;2024.03.22;2024.03.29;airbnbOfficial;798.88;EUR;679.05;4;7;new;2024.02.02 13:49;Bajcsy59;;;;;78.88;;679.05;Paid;798.88;0.00;233291;Brand new modern flat | Pink Flamingo
+25911021;Vanessza;2024.03.23;2024.03.24;airbnbOfficial;97.60;EUR;0;1;1;declined;2024.03.23 21:31;Lovag 8;;;;;50.00;;0.00;;;;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+25910681;Vanessza;2024.03.23;2024.03.24;airbnbOfficial;40.00;EUR;;1;1;inquiry;2024.03.23 21:18;Lovag 8;;;;;50.00;;;;;;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+25900340;Osi Daniel;2024.03.23;2024.03.24;bookingcom;0.00;EUR;;1;1;cancelled;2024.03.23 15:16;Lovag 8;11.85;., HU;.;HU;35.00;1125782101;;;80.53;-80.53;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+25360878;Hilde Kristin Eliassen;2024.03.23;2024.03.30;airbnbOfficial;449.00;EUR;381.65;3;7;new;2024.03.10 9:58;Nagymezo 36;;;;;80.00;;381.65;Paid;449;0.00;248112;Hard Rock BnB | Pink Flamingo
+24308571;Anne-Mette Hulegaard Jensen;2024.03.23;2024.03.27;airbnbOfficial;288.88;EUR;245.55;10;4;new;2024.02.12 12:21;Gyulai Pal 12;;;;;78.88;;245.55;Paid;288.88;0.00;233285;Palace District /w Gallery | Pink Flamingo
+23386197;Zsolt Hadi;2024.03.23;2024.03.24;bookingcom;85.00;EUR;;4;1;new;2023.12.15 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;85.00;233289;Cosy new flat in Palace District | Pink Flamingo
+23943852;Zara Ricketts;2024.03.24;2024.03.28;airbnbOfficial;558.88;EUR;452.42;4;4;new;2024.02.02 11:51;Bajcsy 19;;;;;78.88;;452.42;Paid;558.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23916240;Martina Eggert;2024.03.24;2024.03.31;airbnbOfficial;435.33;EUR;370.03;3;7;new;2024.02.01 16:45;Vas 4 / 2;;;;;47.33;;370.03;Paid;435.33;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+23435142;Ilze Boce;2024.03.24;2024.03.28;bookingcom;179.04;EUR;;2;4;new;2024.01.19 17:47;Lovag 8;26.13;LV;;LV;35.00;1125782101;;Paid;179.04;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+24229009;Valentin David;2024.03.25;2024.03.29;airbnbOfficial;203.33;EUR;0;2;4;cancelled;2024.02.09 21:33;Vas 4 / 1;;;;;47.33;;0.00;Paid;203.33;0.00;233288;New bright flat with terrace | Pink Flamingo
+25863499;Gianluca;2024.03.26;2024.03.29;airbnbOfficial;105.00;EUR;;4;3;inquiry;2024.03.22 17:01;Vas 4 / 1;;;;;50.00;;;;;;233288;New bright flat with terrace | Pink Flamingo
+24399216;Jayden Fisher;2024.03.26;2024.03.30;airbnbOfficial;323.00;EUR;274.55;4;4;modified;2024.02.14 20:40;Király 14;;;;;68.00;;274.55;Paid;323;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+25167883;Arman;2024.03.28;2024.03.31;airbnbOfficial;400.00;EUR;;5;3;inquiry;2024.03.05 14:55;Nagymezo 36;;;;;80.00;;;;;;248112;Hard Rock BnB | Pink Flamingo
+23981602;Jerome Briand;2024.03.28;2024.04.01;airbnbOfficial;798.88;EUR;646.7;3;4;new;2024.02.03 14:42;Bajcsy 19;;;;;78.88;;646.70;Paid;798.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23446000;Zsuzsanna Szeplaky;2024.03.28;2024.04.02;bookingcom;272.17;EUR;;2;5;new;2024.01.20 0:00;Lovag 8;39.63;., IT;.;IT;35.00;1125782101;;Paid;272.17;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+25811313;Vivien Tersach;2024.03.29;2024.03.30;airbnbOfficial;178.88;EUR;152.05;5;1;new;2024.03.21 11:35;Bajcsy59;;;;;78.88;;152.05;Paid;178.88;0.00;233291;Brand new modern flat | Pink Flamingo
+24146014;Maxime Geoffroy;2024.03.29;2024.04.01;airbnbOfficial;558.88;EUR;475.05;9;3;new;2024.02.07 20:50;Gyulai Pal 12;;;;;78.88;;475.05;Paid;558.88;0.00;233285;Palace District /w Gallery | Pink Flamingo
+24011101;Beatrice Tisato;2024.03.29;2024.04.03;airbnbOfficial;337.33;EUR;286.73;2;5;new;2024.02.04 13:27;Vas 4 / 1;;;;;47.33;;286.73;Paid;337.33;0.00;233288;New bright flat with terrace | Pink Flamingo
+23988856;Louis Marrocq;2024.03.29;2024.04.01;airbnbOfficial;498.88;EUR;0;4;3;cancelled;2024.02.03 19:22;Bajcsy59;;;;;78.88;;0.00;Paid;498.88;0.00;233291;Brand new modern flat | Pink Flamingo
+23987133;Bruno;2024.03.29;2024.03.31;airbnbOfficial;400.00;EUR;;10;2;inquiry;2024.02.03 18:19;Gyulai Pal 12;;;;;78.88;;;;;;233285;Palace District /w Gallery | Pink Flamingo
+23386162;Ignacio Campos;2024.03.29;2024.04.01;bookingcom;0.00;EUR;;1;3;cancelled;2023.12.28 0:00;Vas 4 / 2;;., DE;.;DE;;1070106303;;;;;233289;Cosy new flat in Palace District | Pink Flamingo
+25201304;Ελενη Μαζωνακη;2024.03.30;2024.04.01;airbnbOfficial;330.00;EUR;280.5;5;2;new;2024.03.06 9:32;Nagymezo 36;;;;;80.00;;280.50;Paid;330;0.00;248112;Hard Rock BnB | Pink Flamingo
+24887596;Bryan Jarry;2024.03.30;2024.04.04;airbnbOfficial;1078.88;EUR;917.05;2;5;new;2024.02.27 10:55;Bajcsy59;;;;;78.88;;917.05;Paid;1078.88;0.00;233291;Brand new modern flat | Pink Flamingo
+23385106;Patrice Hübsch;2024.03.30;2024.04.04;airbnbOfficial;180150.00;HUF;145830;4;5;new;2023.12.03 21:07;Király 14;;;;;12000.00;;145830.00;Paid;180150;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+24042323;Iwan Postel;2024.03.31;2024.04.02;airbnbOfficial;177.33;EUR;150.73;4;2;new;2024.02.05 10:29;Vas 4 / 2;;;;;47.33;;150.73;Paid;177.33;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+24623074;Ida Putz;2024.04.01;2024.04.03;airbnbOfficial;238.88;EUR;193.38;4;2;new;2024.02.20 20:24;Bajcsy 19;;;;;78.88;;193.38;Paid;238.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+24280864;Gordana Domić;2024.04.01;2024.04.05;airbnbOfficial;399.00;EUR;339.15;7;4;new;2024.02.11 15:43;Gyulai Pal 12;;;;;79.00;;339.15;Paid;399;0.00;233285;Palace District /w Gallery | Pink Flamingo
+24280415;Gordana;2024.04.01;2024.04.05;airbnbOfficial;320.00;EUR;;7;4;inquiryPreapproved;2024.02.11 15:23;Gyulai Pal 12;;;;;78.88;;;;;;233285;Palace District /w Gallery | Pink Flamingo
+24205188;Shveta;2024.04.01;2024.04.04;airbnbOfficial;240.00;EUR;;4;3;inquiry;2024.02.09 8:23;Bajcsy59;;;;;78.88;;;;;;233291;Brand new modern flat | Pink Flamingo
+25652130;Theresia Stelzer;2024.04.02;2024.04.06;airbnbOfficial;500.00;EUR;425;5;4;new;2024.03.17 17:56;Nagymezo 36;;;;;80.00;;425.00;Paid;500;0.00;248112;Hard Rock BnB | Pink Flamingo
+23507117;PARTHENA KOUIMTSIDOU;2024.04.02;2024.04.06;bookingcom;344.29;EUR;;4;4;new;2024.01.21 20:26;Vas 4 / 2;50.16;GR;;GR;50.00;1070106303;;Paid;344.29;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+26182633;Dawid Zietek;2024.04.03;2024.04.07;bookingcom;192.29;EUR;;3;4;new;2024.03.30 23:24;Lovag 8;28.05;PL;;PL;35.00;1125782101;;Paid;192.29;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+25624008;Annelie Weber;2024.04.03;2024.04.07;airbnbOfficial;220.00;EUR;187;3;4;new;2024.03.16 23:01;Vas 4 / 1;;;;;50.00;;187.00;Paid;220;0.00;233288;New bright flat with terrace | Pink Flamingo
+24911203;Sungpil Cho;2024.04.03;2024.04.07;airbnbOfficial;680.00;EUR;550.46;3;4;new;2024.02.27 23:45;Bajcsy 19;;;;;80.00;;550.46;Paid;680;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+24221279;Kamal Malek;2024.04.03;2024.04.07;airbnbOfficial;678.88;EUR;0;4;4;cancelled;2024.02.09 17:22;Bajcsy 19;;;;;78.88;;0.00;Paid;678.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+24511285;Berk Can Yesilova;2024.04.04;2024.04.08;bookingcom;0.00;EUR;;1;4;cancelled;2024.02.17 23:07;Vas 4 / 1;43.80;TR;;TR;50.00;1070106301;;;300.42;-300.42;233288;New bright flat with terrace | Pink Flamingo
+23730177;Nicholas Ng;2024.04.04;2024.04.09;airbnbOfficial;1467.88;EUR;1247.7;5;5;new;2024.01.27 16:09;Bajcsy59;;;;;78.88;;1247.70;Paid;1467.88;0.00;233291;Brand new modern flat | Pink Flamingo
+25541423;Jaheel Mikael Sølvhaug;2024.04.05;2024.04.07;airbnbOfficial;250.00;EUR;212.5;6;2;new;2024.03.14 18:39;Király 14;;;;;80.00;;212.50;Paid;250;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+25412944;Mary Carmen Mero Avila;2024.04.05;2024.04.08;bookingcom;387.33;EUR;;10;3;new;2024.03.11 17:24;Gyulai Pal 12;56.55;ES;;ES;80.00;1124755101;;Paid;387.33;0.00;233285;Palace District /w Gallery | Pink Flamingo
+26435386;Dávid Király;2024.04.06;2024.04.08;airbnbOfficial;100.00;EUR;85;1;2;new;2024.04.06 13:16;Ant Jokai 12 / 1 (kek);;;;;50.00;;85.00;Paid;100;0.00;257799;Modern Loft-Style Apartment | Pink Flamingo
+26431044;Dávid;2024.04.06;2024.04.08;airbnbOfficial;100.00;EUR;0;1;2;cancelled;2024.04.06 9:37;Ant Dohany 37 / 1 (fa);;;;;50.00;;0.00;;;;257801;Unique Style Loft | Pink Flamingo
+26245176;Цвети Шопова;2024.04.06;2024.04.08;airbnbOfficial;275.00;EUR;233.75;4;2;new;2024.04.01 18:15;Nagymezo 36;;;;;80.00;;233.75;Paid;275;0.00;248112;Hard Rock BnB | Pink Flamingo
+25802379;Nina Poznic;2024.04.06;2024.04.07;bookingcom;95.53;EUR;;4;1;new;2024.03.21 8:00;Vas 4 / 2;14.10;HR;;HR;50.00;1070106303;;Paid;95.53;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+26358076;MARGARITA BILALOVA;2024.04.07;2024.04.09;bookingcom;104.64;EUR;;1;2;new;2024.04.04 10:08;Vas 4 / 2;15.42;RS;;RS;50.00;1070106303;;Paid;104.64;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+25650954;Lisa Walker;2024.04.07;2024.04.10;airbnbOfficial;155.00;EUR;131.75;2;3;new;2024.03.17 17:15;Vas 4 / 1;;;;;50.00;;131.75;Paid;155;0.00;233288;New bright flat with terrace | Pink Flamingo
+25083323;Ronak Bhatt;2024.04.07;2024.04.12;airbnbOfficial;347.00;EUR;0;4;5;cancelled;2024.03.03 12:12;Vas 4 / 2;;;;;47.00;;0.00;;347;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+25055978;Ronak;2024.04.07;2024.04.12;airbnbOfficial;300.00;EUR;;4;5;inquiryPreapproved;2024.03.02 15:44;Vas 4 / 2;;;;;47.33;;;;;;233289;Cosy new flat in Palace District | Pink Flamingo
+24251446;Grace Pitt;2024.04.07;2024.04.10;airbnbOfficial;378.88;EUR;306.71;5;3;new;2024.02.10 15:55;Bajcsy 19;;;;;78.88;;306.71;Paid;378.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23385309;Jyotirmoy Ray;2024.04.07;2024.05.07;bookingcom;0.00;EUR;;1;30;cancelled;2024.01.09 0:00;Lovag 8;;., IN;.;IN;;1125782101;;;;;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+26507927;Parham Sheibani;2024.04.09;2024.04.13;airbnbOfficial;218.00;EUR;185.3;2;4;new;2024.04.08 12:16;Ant Jokai 12 / 1 (kek);;;;;50.00;;185.30;Paid;218;0.00;257799;Modern Loft-Style Apartment | Pink Flamingo
+26160363;Elke Baetens;2024.04.09;2024.04.12;airbnbOfficial;167.33;EUR;142.23;2;3;new;2024.03.30 7:06;Vas 4 / 2;;;;;47.33;;142.23;Paid;167.33;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+26394641;KANAN SADIGOV GULNARA GULUZADE;2024.04.10;2024.04.16;bookingcom;303.52;EUR;;2;6;new;2024.04.05 8:36;Lovag 8;44.25;AZ;;AZ;;1125782101;;Paid;303.52;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+26317862;Dávid Bognár;2024.04.10;2024.04.11;airbnbOfficial;100.00;EUR;85;1;1;new;2024.04.03 12:42;Ant Jokai 12 / 2 (rozsaszin);;;;;50.00;;85.00;Paid;100;0.00;257798;Trendy Loft Home in Center | Pink Flamingo
+25568992;Aleksandra Frolova;2024.04.10;2024.04.14;airbnbOfficial;420.00;EUR;357;6;4;new;2024.03.15 12:12;Király 14;;;;;80.00;;357.00;Paid;420;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+24911471;Dhanush;2024.04.10;2024.04.12;airbnbOfficial;150.00;EUR;;9;2;inquiry;2024.02.28 5:56;Gyulai Pal 12;;;;;100.00;;;;;;233285;Palace District /w Gallery | Pink Flamingo
+24426551;Botond Balog;2024.04.10;2024.04.24;airbnbOfficial;591.33;EUR;502.63;2;14;new;2024.02.15 14:36;Vas 4 / 1;;;;;47.33;;502.63;Paid;591.33;0.00;233288;New bright flat with terrace | Pink Flamingo
+24312463;Julide Kiyak;2024.04.10;2024.04.14;airbnbOfficial;678.88;EUR;549.56;3;4;new;2024.02.12 14:28;Bajcsy 19;;;;;78.88;;549.56;Paid;678.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+26556206;Barbara Bertha;2024.04.11;2024.04.15;airbnbOfficial;190.00;EUR;161.5;1;4;new;2024.04.09 14:09;Ant Dohany 37 / 1 (fa);;;;;50.00;;161.50;Paid;190;0.00;257801;Unique Style Loft | Pink Flamingo
+26556084;Barbara;2024.04.11;2024.04.15;airbnbOfficial;140.00;EUR;;1;4;inquiryPreapproved;2024.04.09 14:05;Ant Dohany 37 / 1 (fa);;;;;50.00;;;;;;257801;Unique Style Loft | Pink Flamingo
+25348516;Carlos Barrera Olivares;2024.04.11;2024.04.14;airbnbOfficial;420.00;EUR;357;7;3;new;2024.03.09 23:50;Gyulai Pal 12;;;;;100.00;;357.00;Paid;420;0.00;233285;Palace District /w Gallery | Pink Flamingo
+24397405;Khalaf Almutairi;2024.04.11;2024.04.16;airbnbOfficial;589.00;EUR;500.65;5;5;modified;2024.02.14 19:33;Bajcsy59;;;;;78.88;;500.65;Paid;589;0.00;233291;Brand new modern flat | Pink Flamingo
+24390383;Violeta;2024.04.11;2024.04.16;airbnbOfficial;600.00;EUR;;5;5;inquiry;2024.02.14 16:11;Bajcsy59;;;;;78.88;;;;;;233291;Brand new modern flat | Pink Flamingo
+26606523;Ivan Lakicevic;2024.04.12;2024.04.13;airbnbOfficial;85.00;EUR;72.25;1;1;new;2024.04.10 19:40;Ant Dohany 37 / 2 (anyag);;;;;50.00;;72.25;Paid;85;0.00;257800;Minimal Loft | Pink Flamingo
+26588172;Botond Trabach;2024.04.12;2024.04.14;airbnbOfficial;150.00;EUR;127.5;1;2;new;2024.04.10 8:31;Ant Jokai 12 / 2 (rozsaszin);;;;;50.00;;127.50;Paid;150;0.00;257798;Trendy Loft Home in Center | Pink Flamingo
+25789491;辣辣 吴;2024.04.12;2024.04.13;airbnbOfficial;87.00;EUR;73.95;3;1;new;2024.03.20 23:21;Vas 4 / 2;;;;;47.00;;73.95;Paid;87;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+25774511;辣辣;2024.04.12;2024.04.13;airbnbOfficial;40.00;EUR;;3;1;inquiryPreapproved;2024.03.20 21:03;Vas 4 / 2;;;;;47.33;;;;;;233289;Cosy new flat in Palace District | Pink Flamingo
+23386167;Amy Newport;2024.04.12;2024.04.14;bookingcom;0.00;EUR;;1;2;cancelled;2023.12.28 0:00;Vas 4 / 2;;GB;;GB;;1070106303;;;;;233289;Cosy new flat in Palace District | Pink Flamingo
+26568485;Maria Sousa;2024.04.13;2024.04.15;bookingcom;78.64;EUR;;2;2;new;2024.04.09 19:36;Ant Dohany 37 / 2 (anyag);11.40;PT;;PT;;1186975101;;Paid;78.64;0.00;257800;Minimal Loft | Pink Flamingo
+25400040;Cindy Sergent;2024.04.13;2024.04.18;airbnbOfficial;380.00;EUR;323;3;5;new;2024.03.11 10:11;Nagymezo 36;;;;;80.00;;323.00;Paid;380;0.00;248112;Hard Rock BnB | Pink Flamingo
+25333135;Sean Taylor;2024.04.13;2024.04.17;airbnbOfficial;277.33;EUR;235.73;4;4;new;2024.03.09 15:41;Vas 4 / 2;;;;;47.33;;235.73;Paid;277.33;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+26740803;Alessandro Sannino;2024.04.14;2024.04.18;airbnbOfficial;155.00;EUR;131.75;1;4;modified;2024.04.14 19:50;Ant Jokai 12 / 2 (rozsaszin);;;;;50.00;;131.75;Paid;155;0.00;257798;Trendy Loft Home in Center | Pink Flamingo
+26725300;Shiri Adani;2024.04.14;2024.04.16;airbnbOfficial;180.00;EUR;153;3;2;new;2024.04.14 8:37;Király 14;;;;;80.00;;153.00;Paid;180;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+26394531;Herman;2024.04.14;2024.04.16;airbnbOfficial;110.00;EUR;;6;2;inquiry;2024.04.05 8:48;Király 14;;;;;80.00;;;;;;233286;Central base w/ Private Patio | Pink Flamingo
+23385108;Marine Tourat;2024.04.14;2024.04.19;airbnbOfficial;164000.00;HUF;0;5;5;cancelled;2023.12.06 16:08;Király 14;;;;;12000.00;;0.00;;164000;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+26673956;Poasa Raqiyawa;2024.04.15;2024.04.24;airbnbOfficial;361.00;EUR;306.85;1;9;new;2024.04.12 18:12;Ant Dohany 37 / 1 (fa);;;;;50.00;;306.85;Paid;361;0.00;257801;Unique Style Loft | Pink Flamingo
+26673486;Poasa;2024.04.15;2024.04.24;airbnbOfficial;345.00;EUR;;1;9;inquiryPreapproved;2024.04.12 17:58;Ant Dohany 37 / 1 (fa);;;;;50.00;;;;;;257801;Unique Style Loft | Pink Flamingo
+24629232;Ilyes Ghemri;2024.04.15;2024.04.19;airbnbOfficial;398.88;EUR;322.9;3;4;new;2024.02.20 22:43;Bajcsy 19;;;;;78.88;;322.90;Paid;398.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+25035244;Iván Díaz Blanco;2024.04.16;2024.04.20;airbnbOfficial;475.00;EUR;403.75;9;4;new;2024.03.01 23:28;Gyulai Pal 12;;;;;100.00;;403.75;Paid;475;0.00;233285;Palace District /w Gallery | Pink Flamingo
+26836324;Mélanie Roussillon;2024.04.17;2024.04.21;airbnbOfficial;130.00;EUR;110.5;2;4;new;2024.04.17 9:19;Ant Dohany 37 / 2 (anyag);;;;;0.00;;110.50;Paid;130;0.00;257800;Minimal Loft | Pink Flamingo
+26831986;Mélanie;2024.04.17;2024.04.21;airbnbOfficial;170.00;EUR;;2;4;inquiry;2024.04.17 5:09;Ant Dohany 37 / 2 (anyag);;;;;50.00;;;;;;257800;Minimal Loft | Pink Flamingo
+26574271;Maxime;2024.04.17;2024.04.22;airbnbOfficial;270.00;EUR;;2;5;inquiry;2024.04.09 22:32;Ant Jokai 12 / 2 (rozsaszin);;;;;50.00;;;;;;257798;Trendy Loft Home in Center | Pink Flamingo
+26038171;Janie Sulaiman;2024.04.17;2024.04.20;airbnbOfficial;230.00;EUR;195.5;3;3;new;2024.03.27 0:28;Király 14;;;;;80.00;;195.50;Paid;230;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+24408199;Edwin Wang;2024.04.17;2024.04.20;airbnbOfficial;428.88;EUR;0;4;3;cancelled;2024.02.15 2:33;Bajcsy59;;;;;78.88;;0.00;Paid;428.88;0.00;233291;Brand new modern flat | Pink Flamingo
+24395611;Piera;2024.04.17;2024.04.20;airbnbOfficial;350.00;EUR;;5;3;inquiry;2024.02.14 18:29;Bajcsy59;;;;;78.88;;;;;;233291;Brand new modern flat | Pink Flamingo
+26728801;Keihan Zoughalchi;2024.04.18;2024.05.09;airbnbOfficial;981.50;EUR;260.52;1;21;cancelled;2024.04.14 12:03;Ant Jokai 12 / 1 (kek);;;;;50.00;;260.52;;981.5;0.00;257799;Modern Loft-Style Apartment | Pink Flamingo
+26694510;Keihan;2024.04.18;2024.05.09;airbnbOfficial;1035.00;EUR;;1;21;inquiry;2024.04.13 9:30;Ant Jokai 12 / 1 (kek);;;;;50.00;;;;;;257799;Modern Loft-Style Apartment | Pink Flamingo
+26645085;Marnix Betting;2024.04.18;2024.04.22;airbnbOfficial;220.00;EUR;187;2;4;new;2024.04.11 21:07;Ant Jokai 12 / 2 (rozsaszin);;;;;50.00;;187.00;Paid;220;0.00;257798;Trendy Loft Home in Center | Pink Flamingo
+23386177;Reethika Sivabalakumar;2024.04.18;2024.04.21;bookingcom;206.55;EUR;;3;3;new;2023.12.20 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;206.55;233289;Cosy new flat in Palace District | Pink Flamingo
+26890295;András Ferenczi;2024.04.19;2024.04.20;airbnbOfficial;206.38;EUR;175.42;1;1;new;2024.04.18 18:35;Bajcsy59;;;;;78.88;;175.42;Paid;206.38;0.00;233291;Brand new modern flat | Pink Flamingo
+26526894;Olha Nazarchuk;2024.04.19;2024.04.22;bookingcom;167.97;EUR;;2;3;new;2024.04.08 20:47;Lovag 8;24.60;., PL;.;PL;50.00;1125782101;;Paid;167.97;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+25741951;Marina Perna;2024.04.19;2024.04.22;airbnbOfficial;470.00;EUR;399.5;4;3;new;2024.03.19 19:24;Nagymezo 36;;;;;80.00;;399.50;Paid;470;0.00;248112;Hard Rock BnB | Pink Flamingo
+25698678;Samanta;2024.04.19;2024.04.22;airbnbOfficial;390.00;EUR;;4;3;inquiry;2024.03.19 8:14;Nagymezo 36;;;;;80.00;;;;;;248112;Hard Rock BnB | Pink Flamingo
+26060775;Åsa Zetterlind Jansson;2024.04.20;2024.04.24;airbnbOfficial;300.00;EUR;255;5;4;new;2024.03.27 15:53;Gyulai Pal 12;;;;;100.00;;255.00;Paid;300;0.00;233285;Palace District /w Gallery | Pink Flamingo
+25871496;Karoly Palfai;2024.04.20;2024.04.22;airbnbOfficial;313.88;EUR;266.8;5;2;new;2024.03.22 20:55;Bajcsy59;;;;;78.88;;266.80;Paid;313.88;0.00;233291;Brand new modern flat | Pink Flamingo
+24540606;Giulia Rizza;2024.04.20;2024.04.22;bookingcom;0.00;EUR;;1;2;cancelled;2024.02.18 20:19;Gyulai Pal 12;54.90;., IT;.;IT;80.00;1124755101;;;375.95;-375.95;233285;Palace District /w Gallery | Pink Flamingo
+24383835;Charlie Karaboga;2024.04.20;2024.04.25;airbnbOfficial;628.88;EUR;0;5;5;cancelled;2024.02.14 10:58;Bajcsy59;;;;;78.88;;0.00;;628.88;0.00;233291;Brand new modern flat | Pink Flamingo
+24294603;Julie Drucker;2024.04.20;2024.04.25;airbnbOfficial;678.88;EUR;549.56;4;5;modified;2024.02.12 0:16;Bajcsy 19;;;;;78.88;;549.56;Paid;678.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23385109;Eduardo Rebollar;2024.04.20;2024.04.23;airbnbOfficial;119350.00;HUF;96612;5;3;new;2023.12.14 23:18;Király 14;;;;;12000.00;;96612.00;Paid;119350;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+26674047;Shiraz Chaudhary;2024.04.21;2024.04.28;airbnbOfficial;297.50;EUR;0;2;7;cancelled;2024.04.12 18:15;Ant Dohany 37 / 2 (anyag);;;;;50.00;;0.00;;297.5;0.00;257800;Minimal Loft | Pink Flamingo
+26673658;Shiraz;2024.04.21;2024.04.29;airbnbOfficial;310.00;EUR;;2;8;inquiryPreapproved;2024.04.12 18:03;Ant Dohany 37 / 2 (anyag);;;;;50.00;;;;;;257800;Minimal Loft | Pink Flamingo
+27018607;Mohamed Alrashidi;2024.04.22;2024.04.25;airbnbOfficial;230.00;EUR;195.5;2;3;new;2024.04.22 17:32;Nagymezo 36;;;;;80.00;;195.50;Paid;230;0.00;248112;Hard Rock BnB | Pink Flamingo
+26742110;Alicja;2024.04.22;2024.04.26;airbnbOfficial;140.00;EUR;;1;4;inquiry;2024.04.14 20:35;Ant Jokai 12 / 2 (rozsaszin);;;;;50.00;;;;;;257798;Trendy Loft Home in Center | Pink Flamingo
+26856776;Dan Daly;2024.04.23;2024.05.04;airbnbOfficial;1205.00;EUR;1024.25;3;11;new;2024.04.17 20:15;Bajcsy 43;;;;;80.00;;1024.25;Paid;1205;0.00;263226;Stylish Avenue Heaven | Pink Flamingo
+26855866;Dan;2024.04.23;2024.05.04;airbnbOfficial;1250.00;EUR;;3;11;inquiryPreapproved;2024.04.17 19:51;Bajcsy 43;;;;;80.00;;;;;;263226;Stylish Avenue Heaven | Pink Flamingo
+26355518;Jean-Baptiste Prunières;2024.04.23;2024.04.27;airbnbOfficial;330.00;EUR;0;4;4;cancelled;2024.04.04 7:58;Nagymezo 36;;;;;80.00;;0.00;;330;0.00;248112;Hard Rock BnB | Pink Flamingo
+23882059;Tilemachos Trantakis;2024.04.23;2024.04.27;bookingcom;540.49;EUR;;4;4;new;2024.01.31 18:55;Vas 4 / 2;78.60;GR;;GR;50.00;1070106303;;Paid;540.49;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+26675295;Leyla;2024.04.24;2024.04.27;airbnbOfficial;120.00;EUR;;2;3;inquiry;2024.04.12 18:56;Ant Dohany 37 / 1 (fa);;;;;50.00;;;;;;257801;Unique Style Loft | Pink Flamingo
+27123235;Raul Bosinceanu;2024.04.25;2024.04.28;airbnbOfficial;380.00;EUR;323;5;3;new;2024.04.25 9:04;Nagymezo 36;;;;;80.00;;323.00;Paid;380;0.00;248112;Hard Rock BnB | Pink Flamingo
+27080354;Inga Rotberga - Mensch;2024.04.25;2024.05.02;airbnbOfficial;365.00;EUR;310.25;2;7;modified;2024.04.24 9:53;Ant ÚJ Jokai 12 / 1 (kek);;;;;50.00;;310.25;Paid;365;0.00;264956;Cosy Quiet Loft | Pink Flamingo
+27080081;Dragos;2024.04.25;2024.04.29;airbnbOfficial;200.00;EUR;;2;4;inquiry;2024.04.24 9:41;Ant ÚJ Jokai 12 / 1 (kek);;;;;50.00;;;;;;264956;Cosy Quiet Loft | Pink Flamingo
+27042249;Lajos;2024.04.25;2024.05.10;airbnbOfficial;711.50;EUR;0;1;15;cancelled;2024.04.23 7:22;Ant Jokai 12 / 1 (kek);;;;;50.00;;0.00;;;;257799;Modern Loft-Style Apartment | Pink Flamingo
+26892540;Gennaro Grilli;2024.04.25;2024.04.28;airbnbOfficial;185.00;EUR;157.25;2;3;new;2024.04.18 19:51;Ant Dohany 37 / 2 (anyag);;;;;50.00;;157.25;Paid;185;0.00;257800;Minimal Loft | Pink Flamingo
+26892347;Gennaro;2024.04.25;2024.04.28;airbnbOfficial;135.00;EUR;;2;3;inquiryPreapproved;2024.04.18 19:44;Ant Dohany 37 / 2 (anyag);;;;;50.00;;;;;;257800;Minimal Loft | Pink Flamingo
+26726227;Lucas Brasier;2024.04.25;2024.04.28;airbnbOfficial;185.00;EUR;157.25;1;3;new;2024.04.14 9:33;Ant Dohany 37 / 1 (fa);;;;;50.00;;157.25;Paid;185;0.00;257801;Unique Style Loft | Pink Flamingo
+26697017;Kostiantyn;2024.04.25;2024.04.28;airbnbOfficial;135.00;EUR;;2;3;inquiry;2024.04.13 12:50;Ant Dohany 37 / 1 (fa);;;;;50.00;;;;;;257801;Unique Style Loft | Pink Flamingo
+26517510;Bianca-Elena Herghelegiu;2024.04.25;2024.04.29;bookingcom;207.29;EUR;;2;4;new;2024.04.08 17:05;Lovag 8;30.30;., DE;.;DE;50.00;1125782101;;Paid;207.29;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+25743381;Rosalie Blietz;2024.04.25;2024.04.28;bookingcom;236.26;EUR;;2;3;new;2024.03.19 19:55;Vas 4 / 1;34.50;., DE;.;DE;50.00;1070106301;;Paid;236.26;0.00;233288;New bright flat with terrace | Pink Flamingo
+24542304;Ernst Lenstra;2024.04.25;2024.04.28;airbnbOfficial;478.88;EUR;387.66;4;3;new;2024.02.18 21:18;Bajcsy 19;;;;;78.88;;387.66;Paid;478.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+24477962;Silvio;2024.04.25;2024.05.23;airbnbOfficial;4100.00;EUR;;2;28;inquiry;2024.02.16 20:52;Bajcsy59;;;;;78.88;;;;;;233291;Brand new modern flat | Pink Flamingo
+23433974;Pavlina Karakitsou;2024.04.25;2024.04.28;bookingcom;282.21;EUR;;5;3;new;2024.01.19 17:09;Király 14;41.16;GR;;GR;50.00;1125830001;;Paid;282.21;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+26643217;Sandra Radovic Pejovic;2024.04.26;2024.05.02;airbnbOfficial;350.00;EUR;297.5;2;6;new;2024.04.11 19:57;Ant Jokai 12 / 2 (rozsaszin);;;;;50.00;;297.50;Paid;350;0.00;257798;Trendy Loft Home in Center | Pink Flamingo
+25361761;Laurentiu Maricutoiu;2024.04.26;2024.04.30;airbnbOfficial;500.00;EUR;425;8;4;new;2024.03.10 10:47;Gyulai Pal 12;;;;;100.00;;425.00;Paid;500;0.00;233285;Palace District /w Gallery | Pink Flamingo
+24494489;Oscar Roca;2024.04.26;2024.04.30;airbnbOfficial;578.88;EUR;492.05;3;4;new;2024.02.17 10:40;Bajcsy59;;;;;78.88;;492.05;Paid;578.88;0.00;233291;Brand new modern flat | Pink Flamingo
+27103223;Giada Mambelli;2024.04.27;2024.05.01;airbnbOfficial;530.00;EUR;450.5;4;4;new;2024.04.24 20:04;Bajcsy 19 / 2;;;;;80.00;;450.50;Paid;530;0.00;264441;Balcony Basilica Luxury Penthouse | Pink Flamingo
+27100883;Teresa;2024.04.27;2024.05.01;airbnbOfficial;450.00;EUR;;3;4;inquiry;2024.04.24 19:08;Bajcsy 19 / 2;;;;;80.00;;;;;;264441;Balcony Basilica Luxury Penthouse | Pink Flamingo
+25661986;Giada Mambelli;2024.04.27;2024.05.01;airbnbOfficial;500.00;EUR;0;4;4;cancelled;2024.03.17 22:45;Nagymezo 36;;;;;80.00;;0.00;;500;0.00;248112;Hard Rock BnB | Pink Flamingo
+25661791;Giada;2024.04.27;2024.05.01;airbnbOfficial;420.00;EUR;;4;4;inquiryPreapproved;2024.03.17 22:39;Nagymezo 36;;;;;80.00;;;;;;248112;Hard Rock BnB | Pink Flamingo
+23386176;Márta Kohán;2024.04.27;2024.04.28;bookingcom;76.50;EUR;;3;1;new;2023.12.24 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;76.50;233289;Cosy new flat in Palace District | Pink Flamingo
+27104733;Ivo Yordanov;2024.04.28;2024.05.01;airbnbOfficial;350.00;EUR;297.5;4;3;new;2024.04.24 20:39;Nagymezo 36;;;;;80.00;;297.50;Paid;350;0.00;248112;Hard Rock BnB | Pink Flamingo
+26622089;Bogdan Dobre;2024.04.28;2024.05.01;airbnbOfficial;155.00;EUR;131.75;2;3;new;2024.04.11 7:15;Ant Dohany 37 / 1 (fa);;;;;50.00;;131.75;Paid;155;0.00;257801;Unique Style Loft | Pink Flamingo
+26621297;Bogdan;2024.04.28;2024.05.01;airbnbOfficial;105.00;EUR;;2;3;inquiryPreapproved;2024.04.11 6:24;Ant Dohany 37 / 1 (fa);;;;;50.00;;;;;;257801;Unique Style Loft | Pink Flamingo
+25974297;Cristina Henriques;2024.04.28;2024.05.01;bookingcom;307.03;EUR;;5;3;new;2024.03.25 14:19;Király 14;44.85;PT;;PT;68.00;1125830001;;Paid;307.03;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+24733605;Eunbyeol Cho;2024.04.28;2024.05.01;airbnbOfficial;528.88;EUR;428.13;2;3;new;2024.02.23 11:22;Bajcsy 19;;;;;78.88;;428.13;Paid;528.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+24716694;Rojo Ramos. José Luis;2024.04.28;2024.04.30;airbnbOfficial;0.00;EUR;0;3;2;cancelled;2024.02.22 23:57;Vas 4 / 2;;;;;47.33;;0.00;;147.33;-147.33;233289;Cosy new flat in Palace District | Pink Flamingo
+24476199;Kerstin Groß;2024.04.28;2024.05.01;airbnbOfficial;167.33;EUR;0;2;3;cancelled;2024.02.16 19:45;Vas 4 / 1;;;;;47.33;;0.00;;167.33;0.00;233288;New bright flat with terrace | Pink Flamingo
+26630971;Mirko Tamburini;2024.04.29;2024.05.03;airbnbOfficial;190.00;EUR;161.5;1;4;new;2024.04.11 15:00;Ant Dohany 37 / 2 (anyag);;;;;50.00;;161.50;Paid;190;0.00;257800;Minimal Loft | Pink Flamingo
+26714993;Ammar;2024.04.30;2024.05.04;airbnbOfficial;200.00;EUR;;1;4;inquiry;2024.04.14 0:11;Ant Jokai 12 / 1 (kek);;;;;50.00;;;;;;257799;Modern Loft-Style Apartment | Pink Flamingo
+26139682;Jan Jauernik;2024.04.30;2024.05.04;airbnbOfficial;650.00;EUR;552.5;9;4;new;2024.03.29 17:30;Gyulai Pal 12;;;;;100.00;;552.50;Paid;650;0.00;233285;Palace District /w Gallery | Pink Flamingo
+24806305;Laura Lara Medina;2024.04.30;2024.05.03;bookingcom;244.64;EUR;;3;3;new;2024.02.25 15:19;Vas 4 / 2;35.72;ES;;ES;50.00;1070106303;;Paid;244.64;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+27069762;Rayo;2024.05.01;2024.05.05;airbnbOfficial;200.00;EUR;;1;4;inquiry;2024.04.24 0:59;Ant ÚJ Jokai 12 / 1 (kek);;;;;50.00;;;;;;264956;Cosy Quiet Loft | Pink Flamingo
+27045843;Aksana Vaniukevich;2024.05.01;2024.05.05;airbnbOfficial;780.00;EUR;663;3;4;new;2024.04.23 10:10;Bajcsy 19 / 2;;;;;80.00;;663.00;Paid;780;0.00;264441;Balcony Basilica Luxury Penthouse | Pink Flamingo
+26700402;Andrei Miron;2024.05.01;2024.05.04;airbnbOfficial;195.00;EUR;165.75;2;3;new;2024.04.13 14:44;Ant Dohany 37 / 1 (fa);;;;;50.00;;165.75;Paid;195;0.00;257801;Unique Style Loft | Pink Flamingo
+26624585;Klejdi;2024.05.01;2024.05.03;airbnbOfficial;70.00;EUR;;2;2;inquiry;2024.04.11 10:09;Ant Dohany 37 / 1 (fa);;;;;50.00;;;;;;257801;Unique Style Loft | Pink Flamingo
+26314872;Darek Kawa;2024.05.01;2024.05.04;bookingcom;271.44;EUR;;4;3;new;2024.04.03 10:42;Lovag 8;39.60;PL;;PL;50.00;1125782101;;Paid;271.44;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+26313704;Alena Naskova;2024.05.01;2024.05.05;airbnbOfficial;580.00;EUR;493;5;4;new;2024.04.03 9:52;Nagymezo 36;;;;;80.00;;493.00;Paid;580;0.00;248112;Hard Rock BnB | Pink Flamingo
+26249949;Noemi Popelin;2024.05.01;2024.05.09;bookingcom;0.00;EUR;;1;8;cancelled;2024.04.01 20:35;Vas 4 / 1;84.72;., FR;.;FR;50.00;1070106301;;;582.71;-582.71;233288;New bright flat with terrace | Pink Flamingo
+24773408;Teodora Ganea;2024.05.01;2024.05.05;airbnbOfficial;718.88;EUR;611.05;4;4;new;2024.02.24 14:11;Bajcsy59;;;;;78.88;;611.05;Paid;718.88;0.00;233291;Brand new modern flat | Pink Flamingo
+24357986;Karoly;2024.05.01;2024.05.03;airbnbOfficial;300.00;EUR;;5;2;inquiry;2024.02.13 18:44;Bajcsy59;;;;;78.88;;;;;;233291;Brand new modern flat | Pink Flamingo
+24281320;Juan Carlos Ramirez;2024.05.01;2024.05.04;airbnbOfficial;778.88;EUR;630.51;3;3;new;2024.02.11 16:05;Bajcsy 19;;;;;78.88;;630.51;Paid;778.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23385113;Clement Leur;2024.05.01;2024.05.04;airbnbOfficial;107350.00;HUF;96613;6;3;new;2024.01.04 17:34;Király 14;;;;;12000.00;;96613.00;Paid;107350;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+27078051;Sezer Körpinar;2024.05.02;2024.05.05;airbnbOfficial;200.00;EUR;170;2;3;modified;2024.04.24 7:34;Ant ÚJ Jokai 12 / 1 (kek);;;;;50.00;;170.00;Paid;200;0.00;264956;Cosy Quiet Loft | Pink Flamingo
+26897945;Maria Santana;2024.05.02;2024.05.05;airbnbOfficial;250.00;EUR;0;2;3;cancelled;2024.04.18 23:21;Vas 4 / 1;;;;;50.00;;0.00;Paid;250;0.00;233288;New bright flat with terrace | Pink Flamingo
+26818037;Mateja Car;2024.05.02;2024.05.05;airbnbOfficial;250.00;EUR;212.5;2;3;new;2024.04.16 19:53;Ant Jokai 12 / 2 (rozsaszin);;;;;50.00;;212.50;Paid;250;0.00;257798;Trendy Loft Home in Center | Pink Flamingo
+26708330;Bartek;2024.05.02;2024.05.04;airbnbOfficial;100.00;EUR;;2;2;inquiry;2024.04.13 19:49;Ant Jokai 12 / 1 (kek);;;;;50.00;;;;;;257799;Modern Loft-Style Apartment | Pink Flamingo
+26322905;Monika Knot;2024.05.02;2024.05.05;airbnbOfficial;250.00;EUR;0;3;3;cancelled;2024.04.03 14:39;Vas 4 / 1;;;;;50.00;;0.00;;250;0.00;233288;New bright flat with terrace | Pink Flamingo
+26837112;Athanasios Zoumpekas;2024.05.03;2024.05.06;airbnbOfficial;185.00;EUR;157.25;2;3;new;2024.04.17 9:59;Ant Dohany 37 / 2 (anyag);;;;;50.00;;157.25;Paid;185;0.00;257800;Minimal Loft | Pink Flamingo
+23386180;Sofie Simon;2024.05.03;2024.05.05;bookingcom;136.00;EUR;;1;2;new;2023.12.09 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;136.00;233289;Cosy new flat in Palace District | Pink Flamingo
+27235232;晓璇 彭;2024.05.04;2024.06.05;airbnbOfficial;3522.50;EUR;3089.23;1;32;new;2024.04.28 13:55;Bajcsy 43;;;;;80.00;;2937.95;Paid;3522.5;0.00;263226;Stylish Avenue Heaven | Pink Flamingo
+27233976;晓璇;2024.05.04;2024.06.06;airbnbOfficial;4250.00;EUR;;1;33;inquiryPreapproved;2024.04.28 13:00;Bajcsy 43;;;;;80.00;;;;;;263226;Stylish Avenue Heaven | Pink Flamingo
+26876289;Alexander Ptak;2024.05.04;2024.05.09;airbnbOfficial;240.00;EUR;204;2;5;new;2024.04.18 10:32;Ant Dohany 37 / 1 (fa);;;;;50.00;;204.00;Paid;240;0.00;257801;Unique Style Loft | Pink Flamingo
+26842885;Maria Jose;2024.05.04;2024.05.07;airbnbOfficial;120.00;EUR;;1;3;inquiry;2024.04.17 13:58;Ant Dohany 37 / 1 (fa);;;;;50.00;;;;;;257801;Unique Style Loft | Pink Flamingo
+26708191;Klevis Ibrahimi;2024.05.04;2024.05.07;airbnbOfficial;320.00;EUR;272;5;3;new;2024.04.13 19:41;Király 14;;;;;80.00;;272.00;Paid;320;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+26680469;Elsa Chen;2024.05.04;2024.05.05;airbnbOfficial;180.00;EUR;145.71;2;1;new;2024.04.12 21:45;Bajcsy 19;;;;;80.00;;145.71;Paid;180;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+26638976;Vaclav Elsner;2024.05.04;2024.05.08;bookingcom;207.29;EUR;;2;4;new;2024.04.11 17:53;Lovag 8;30.30;CZ;;CZ;50.00;1125782101;;Paid;207.29;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+26473228;José Ribeiro Da Silva Júnior;2024.05.04;2024.05.09;airbnbOfficial;350.00;EUR;297.5;2;5;new;2024.04.07 15:02;Gyulai Pal 12;;;;;100.00;;297.50;Paid;350;0.00;233285;Palace District /w Gallery | Pink Flamingo
+26836597;Jake Burnett;2024.05.05;2024.05.12;airbnbOfficial;297.50;EUR;252.87;2;7;new;2024.04.17 9:32;Ant Jokai 12 / 2 (rozsaszin);;;;;50.00;;252.87;Paid;297.5;0.00;257798;Trendy Loft Home in Center | Pink Flamingo
+26246198;Εύα Νασιουλα;2024.05.05;2024.05.07;airbnbOfficial;127.33;EUR;0;2;2;cancelled;2024.04.01 18:43;Vas 4 / 2;;;;;47.33;;0.00;;127.33;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+26139301;Frederic Assouad;2024.05.05;2024.05.07;airbnbOfficial;127.33;EUR;0;3;2;cancelled;2024.03.29 17:21;Vas 4 / 2;;;;;47.33;;0.00;;127.33;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+24589518;Fausto Sainz;2024.05.05;2024.05.09;airbnbOfficial;678.88;EUR;549.56;3;4;new;2024.02.20 1:30;Bajcsy 19;;;;;78.88;;549.56;Paid;678.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+24766708;Daniela Cruz Hernandez;2024.05.06;2024.05.09;airbnbOfficial;378.88;EUR;322.05;4;3;new;2024.02.24 7:37;Bajcsy59;;;;;78.88;;322.05;Paid;378.88;0.00;233291;Brand new modern flat | Pink Flamingo
+27286043;Anastasios Charkiolakis;2024.05.07;2024.05.11;airbnbOfficial;250.00;EUR;212.5;1;4;new;2024.04.29 19:27;Ant ÚJ Jokai 12 / 1 (kek);;;;;50.00;;0.00;Paid;250;0.00;264956;Cosy Quiet Loft | Pink Flamingo
+27096083;Laszlo Kovacs;2024.05.07;2024.05.23;airbnbOfficial;2510.00;EUR;2133.5;2;16;new;2024.04.24 16:27;Bajcsy 19 / 2;;;;;80.00;;0.00;Paid;2510;0.00;264441;Balcony Basilica Luxury Penthouse | Pink Flamingo
+26906362;Wojciech Skrzypczak;2024.05.07;2024.05.12;airbnbOfficial;255.00;EUR;216.75;2;5;new;2024.04.19 5:16;Ant Dohany 37 / 2 (anyag);;;;;50.00;;0.00;Paid;255;0.00;257800;Minimal Loft | Pink Flamingo
+23386174;Sergio Alario Morcillo;2024.05.07;2024.05.09;bookingcom;153.00;EUR;;3;2;new;2023.12.27 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;153.00;233289;Cosy new flat in Palace District | Pink Flamingo
+26741528;Maria Samoylova;2024.05.08;2024.05.10;bookingcom;128.64;EUR;;3;2;new;2024.04.14 20:11;Lovag 8;18.90;SK;;SK;50.00;1125782101;;Paid;128.64;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+23385115;Manon Diot;2024.05.08;2024.05.11;airbnbOfficial;119350.00;HUF;96613;6;3;new;2023.11.28 19:21;Király 14;;;;;12000.00;;0.00;Paid;119350;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+27143028;Antonios Andreanidis;2024.05.09;2024.05.12;airbnbOfficial;528.88;EUR;0;5;3;cancelled;2024.04.25 19:49;Bajcsy59;;;;;78.88;;0.00;;528.88;0.00;233291;Brand new modern flat | Pink Flamingo
+26837956;Abigail Awode;2024.05.09;2024.05.11;airbnbOfficial;135.00;EUR;114.75;1;2;new;2024.04.17 10:18;Ant Dohany 37 / 1 (fa);;;;;50.00;;0.00;Paid;135;0.00;257801;Unique Style Loft | Pink Flamingo
+26727690;Richard Randy Reamer;2024.05.09;2024.05.12;airbnbOfficial;480.00;EUR;408;4;3;new;2024.04.14 11:07;Nagymezo 36;;;;;80.00;;0.00;Paid;480;0.00;248112;Hard Rock BnB | Pink Flamingo
+26242294;Philipp Schodl;2024.05.09;2024.05.11;bookingcom;364.57;EUR;;10;2;new;2024.04.01 17:03;Gyulai Pal 12;53.25;., AT;.;AT;80.00;1124755101;;Paid;364.57;0.00;233285;Palace District /w Gallery | Pink Flamingo
+24277886;Yael Zelenetsky;2024.05.09;2024.05.15;airbnbOfficial;0.00;EUR;0;2;6;cancelled;2024.02.11 13:30;Vas 4 / 2;;;;;47.33;;0.00;;587.33;-587.33;233289;Cosy new flat in Palace District | Pink Flamingo
+24264686;Yael;2024.05.09;2024.05.15;airbnbOfficial;540.00;EUR;;2;6;inquiry;2024.02.11 0:52;Vas 4 / 2;;;;;47.33;;;;;;233289;Cosy new flat in Palace District | Pink Flamingo
+27361726;Jawaher Althomali;2024.05.10;2024.05.13;airbnbOfficial;528.88;EUR;449.55;5;3;new;2024.05.01 15:48;Bajcsy59;;;;;78.88;;0.00;Paid;528.88;0.00;233291;Brand new modern flat | Pink Flamingo
+27021841;Artur Wozniak;2024.05.10;2024.05.13;bookingcom;167.97;EUR;;3;3;new;2024.04.22 18:54;Lovag 8;24.60;., PL;.;PL;50.00;1125782101;;Paid;167.97;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+25975132;Windy Zurcher;2024.05.10;2024.05.12;airbnbOfficial;440.00;EUR;356.18;4;2;new;2024.03.25 14:47;Bajcsy 19;;;;;80.00;;0.00;Paid;440;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23450996;Zbigniew Sleczek;2024.05.10;2024.05.14;bookingcom;0.00;EUR;;1;4;cancelled;2024.01.20 3:02;Lovag 8;34.41;PL;;PL;35.00;1125782101;;;236.16;-236.16;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+23386191;Katarzyna Szopiak;2024.05.10;2024.05.11;bookingcom;0.00;EUR;;1;1;cancelled;2024.01.02 0:00;Vas 4 / 2;;PL;;PL;;1070106303;;;;;233289;Cosy new flat in Palace District | Pink Flamingo
+27165273;Shirui Li;2024.05.11;2024.05.16;airbnbOfficial;300.00;EUR;255;2;5;new;2024.04.26 10:25;Ant ÚJ Jokai 12 / 1 (kek);;;;;50.00;;0.00;Paid;300;0.00;264956;Cosy Quiet Loft | Pink Flamingo
+26626752;ana Borstnar;2024.05.11;2024.05.15;bookingcom;307.65;EUR;;2;4;new;2024.04.11 12:17;Gyulai Pal 12;45.00;., SI;.;SI;80.00;1124755101;;Paid;307.65;0.00;233285;Palace District /w Gallery | Pink Flamingo
+26851680;Karoline Jessen;2024.05.12;2024.05.16;airbnbOfficial;190.00;EUR;161.5;2;4;new;2024.04.17 17:37;Ant Jokai 12 / 2 (rozsaszin);;;;;50.00;;0.00;Paid;190;0.00;257798;Trendy Loft Home in Center | Pink Flamingo
+26742484;Enrique Alventosa;2024.05.12;2024.05.19;airbnbOfficial;410.00;EUR;348.5;2;7;new;2024.04.14 20:50;Ant Dohany 37 / 1 (fa);;;;;50.00;;0.00;Paid;410;0.00;257801;Unique Style Loft | Pink Flamingo
+26741470;Enrique;2024.05.12;2024.05.19;airbnbOfficial;400.00;EUR;;2;7;inquiryPreapproved;2024.04.14 20:11;Ant Dohany 37 / 1 (fa);;;;;50.00;;;;;;257801;Unique Style Loft | Pink Flamingo
+24526052;Ruth Oosterhuis;2024.05.12;2024.05.15;airbnbOfficial;528.88;EUR;428.13;4;3;new;2024.02.18 11:40;Bajcsy 19;;;;;78.88;;0.00;Paid;528.88;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+27120658;Marina Travcic;2024.05.13;2024.05.16;airbnbOfficial;155.00;EUR;131.75;1;3;new;2024.04.25 6:43;Ant Dohany 37 / 2 (anyag);;;;;50.00;;0.00;Paid;155;0.00;257800;Minimal Loft | Pink Flamingo
+26704192;Lilli Nieminen;2024.05.13;2024.05.17;airbnbOfficial;478.88;EUR;407.05;2;4;new;2024.04.13 17:12;Bajcsy59;;;;;78.88;;0.00;Paid;478.88;0.00;233291;Brand new modern flat | Pink Flamingo
+26872798;Raz;2024.05.14;2024.05.22;airbnbOfficial;310.00;EUR;;2;8;inquiry;2024.04.18 7:46;Ant Dohany 37 / 2 (anyag);;;;;50.00;;;;;;257800;Minimal Loft | Pink Flamingo
+23388847;Rebeca Mendez Filloy;2024.05.14;2024.05.18;bookingcom;207.60;EUR;;2;4;new;2024.01.18 13:23;Lovag 8;30.27;., ES;.;ES;35.00;1125782101;;Paid;207.6;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+26880183;Ciara;2024.05.15;2024.05.18;airbnbOfficial;120.00;EUR;;2;3;inquiry;2024.04.18 13:20;Ant Dohany 37 / 2 (anyag);;;;;50.00;;;;;;257800;Minimal Loft | Pink Flamingo
+26977050;Simón De Abelleyra;2024.05.16;2024.05.18;airbnbOfficial;430.00;EUR;348.09;3;2;new;2024.04.21 13:45;Bajcsy 19;;;;;80.00;;0.00;Paid;430;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+26951497;Karolina Sarbia;2024.05.16;2024.05.19;airbnbOfficial;185.00;EUR;157.25;2;3;new;2024.04.20 16:03;Ant Dohany 37 / 2 (anyag);;;;;50.00;;0.00;Paid;185;0.00;257800;Minimal Loft | Pink Flamingo
+26885923;Анастасия Андреева;2024.05.16;2024.05.19;airbnbOfficial;185.00;EUR;157.25;2;3;new;2024.04.18 16:27;Ant Jokai 12 / 1 (kek);;;;;50.00;;0.00;Paid;185;0.00;257799;Modern Loft-Style Apartment | Pink Flamingo
+26883735;Robin Klawon;2024.05.16;2024.05.20;airbnbOfficial;220.00;EUR;187;2;4;new;2024.04.18 15:12;Ant Jokai 12 / 2 (rozsaszin);;;;;50.00;;0.00;Paid;220;0.00;257798;Trendy Loft Home in Center | Pink Flamingo
+26207392;Morgan Legge;2024.05.16;2024.05.24;bookingcom;0.00;EUR;;1;8;cancelled;2024.03.31 18:51;Vas 4 / 1;84.72;CA;;CA;50.00;1070106301;;;582.71;-582.71;233288;New bright flat with terrace | Pink Flamingo
+23386164;Alena Vialichka;2024.05.16;2024.05.20;bookingcom;260.08;EUR;;2;4;new;2024.01.01 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;260.08;233289;Cosy new flat in Palace District | Pink Flamingo
+27023892;François;2024.05.17;2024.05.25;airbnbOfficial;1475.00;EUR;;4;8;inquiry;2024.04.22 20:03;Bajcsy 19 / 2;;;;;80.00;;;;;;264441;Balcony Basilica Luxury Penthouse | Pink Flamingo
+26909175;Josephine;2024.05.17;2024.05.20;airbnbOfficial;135.00;EUR;;2;3;inquiry;2024.04.19 8:28;Ant Dohany 37 / 2 (anyag);;;;;50.00;;;;;;257800;Minimal Loft | Pink Flamingo
+26858754;Victoria Vari;2024.05.17;2024.05.24;airbnbOfficial;844.00;EUR;717.4;4;7;new;2024.04.17 21:26;Bajcsy59;;;;;0.00;;0.00;Paid;844;0.00;233291;Brand new modern flat | Pink Flamingo
+26819746;Victoria;2024.05.17;2024.05.24;airbnbOfficial;1000.00;EUR;;4;7;expired;2024.04.16 20:50;Bajcsy59;;;;;78.88;;;;;;233291;Brand new modern flat | Pink Flamingo
+26808502;Gerda Andergassen;2024.05.17;2024.05.20;airbnbOfficial;480.00;EUR;408;5;3;new;2024.04.16 15:20;Nagymezo 36;;;;;80.00;;0.00;Paid;480;0.00;248112;Hard Rock BnB | Pink Flamingo
+26206151;Miti Patel;2024.05.17;2024.05.19;bookingcom;421.48;EUR;;10;2;new;2024.03.31 18:07;Gyulai Pal 12;61.50;US;;US;80.00;1124755101;;Paid;421.48;0.00;233285;Palace District /w Gallery | Pink Flamingo
+26828335;Anjali;2024.05.18;2024.05.20;airbnbOfficial;320.00;EUR;;4;2;inquiry;2024.04.17 5:08;Bajcsy59;;;;;78.88;;;;;;233291;Brand new modern flat | Pink Flamingo
+26771279;Zampaglione Antonio;2024.05.18;2024.05.21;bookingcom;220.74;EUR;;4;3;new;2024.04.15 16:22;Lovag 8;32.25;IT;;IT;50.00;1125782101;;Paid;220.74;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+24889714;K P;2024.05.18;2024.05.21;airbnbOfficial;650.00;EUR;526.17;4;3;new;2024.02.27 12:15;Bajcsy 19;;;;;80.00;;0.00;Paid;650;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23385116;Charpentier Guillaume;2024.05.18;2024.05.25;airbnbOfficial;224400.00;HUF;181652;5;7;new;2024.01.08 16:03;Király 14;;;;;18000.00;;0.00;Paid;224400;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+27413376;Demien Van Steenderen;2024.05.19;2024.05.22;airbnbOfficial;250.00;EUR;212.5;5;3;new;2024.05.02 21:22;Gyulai Pal 12;;;;;100.00;;0.00;Paid;250;0.00;233285;Palace District /w Gallery | Pink Flamingo
+27410765;Harun Atik;2024.05.19;2024.05.24;bookingengine;337.50;EUR;;5;5;inquiry;2024.05.02 20:01;Gyulai Pal 12;;;;;100.00;;;;;;233285;Palace District /w Gallery | Pink Flamingo
+27244300;Kaja Lindmüller;2024.05.19;2024.05.22;airbnbOfficial;155.00;EUR;131.75;2;3;new;2024.04.28 19:19;Ant ÚJ Jokai 12 / 1 (kek);;;;;50.00;;0.00;Paid;155;0.00;264956;Cosy Quiet Loft | Pink Flamingo
+26977281;Abidin Yildiz;2024.05.19;2024.05.23;airbnbOfficial;190.00;EUR;161.5;2;4;new;2024.04.21 13:55;Ant Dohany 37 / 2 (anyag);;;;;50.00;;0.00;Paid;190;0.00;257800;Minimal Loft | Pink Flamingo
+26976768;Abidin;2024.05.19;2024.05.23;airbnbOfficial;140.00;EUR;;2;4;inquiryPreapproved;2024.04.21 13:33;Ant Dohany 37 / 2 (anyag);;;;;50.00;;;;;;257800;Minimal Loft | Pink Flamingo
+27252014;Brett Ackerman;2024.05.20;2024.05.24;airbnbOfficial;340.00;EUR;289;2;4;new;2024.04.28 23:49;Nagymezo 36;;;;;80.00;;0.00;Paid;340;0.00;248112;Hard Rock BnB | Pink Flamingo
+26913536;Ana Machado;2024.05.20;2024.05.23;airbnbOfficial;155.00;EUR;131.75;2;3;new;2024.04.19 11:58;Ant Dohany 37 / 1 (fa);;;;;50.00;;0.00;Paid;155;0.00;257801;Unique Style Loft | Pink Flamingo
+26858458;Jo Raper;2024.05.20;2024.05.24;airbnbOfficial;190.00;EUR;161.5;2;4;new;2024.04.17 21:13;Ant Jokai 12 / 2 (rozsaszin);;;;;50.00;;0.00;Paid;190;0.00;257798;Trendy Loft Home in Center | Pink Flamingo
+24602326;Aylin;2024.05.20;2024.05.25;airbnbOfficial;490.00;EUR;;1;5;inquiry;2024.02.20 10:42;Vas 4 / 1;;;;;47.33;;;;;;233288;New bright flat with terrace | Pink Flamingo
+23386175;Petra Christiansen;2024.05.20;2024.05.24;bookingcom;306.00;EUR;;3;4;new;2024.01.08 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;306.00;233289;Cosy new flat in Palace District | Pink Flamingo
+26466982;Chiara Marelli;2024.05.21;2024.05.25;airbnbOfficial;680.00;EUR;550.46;2;4;new;2024.04.07 10:22;Bajcsy 19;;;;;80.00;;0.00;Paid;680;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+27161733;Sergio Linares;2024.05.22;2024.05.29;airbnbOfficial;297.50;EUR;252.87;1;7;new;2024.04.26 7:43;Ant ÚJ Jokai 12 / 1 (kek);;;;;50.00;;0.00;Paid;297.5;0.00;264956;Cosy Quiet Loft | Pink Flamingo
+27002385;Melina Simon;2024.05.23;2024.05.26;airbnbOfficial;185.00;EUR;157.25;2;3;new;2024.04.22 7:03;Ant Dohany 37 / 1 (fa);;;;;50.00;;0.00;Paid;185;0.00;257801;Unique Style Loft | Pink Flamingo
+26856674;Michael Sim;2024.05.23;2024.05.28;google;275.00;EUR;;2;5;new;2024.04.17 20:11;Lovag 8;;Edinburgh, GB;Edinburgh;GB;50.00;;;Paid;275;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+27059807;Joyce Mulder;2024.05.24;2024.05.28;airbnbOfficial;220.00;EUR;187;2;4;new;2024.04.23 18:44;Ant Jokai 12 / 2 (rozsaszin);;;;;50.00;;0.00;Paid;220;0.00;257798;Trendy Loft Home in Center | Pink Flamingo
+26542926;Sonja Woolhouse;2024.05.24;2024.05.31;airbnbOfficial;710.00;EUR;603.5;4;7;new;2024.04.09 4:37;Nagymezo 36;;;;;80.00;;0.00;Paid;710;0.00;248112;Hard Rock BnB | Pink Flamingo
+26457268;Shalin Pathak;2024.05.24;2024.05.26;airbnbOfficial;528.88;EUR;449.55;4;2;new;2024.04.07 2:07;Bajcsy59;;;;;78.88;;0.00;Paid;528.88;0.00;233291;Brand new modern flat | Pink Flamingo
+26316401;Ryan Evraere;2024.05.24;2024.05.27;airbnbOfficial;500.00;EUR;425;9;3;new;2024.04.03 11:42;Gyulai Pal 12;;;;;100.00;;0.00;Paid;500;0.00;233285;Palace District /w Gallery | Pink Flamingo
+23386184;János Katona;2024.05.24;2024.05.25;bookingcom;85.00;EUR;;4;1;new;2023.12.19 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;85.00;233289;Cosy new flat in Palace District | Pink Flamingo
+26090668;Nikoletta Molnár;2024.05.25;2024.05.26;airbnbOfficial;175.00;EUR;148.75;4;1;new;2024.03.28 10:36;Király 14;;;;;80.00;;0.00;Paid;175;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+25859306;Nikoletta;2024.05.25;2024.05.26;airbnbOfficial;100.00;EUR;;4;1;expired;2024.03.22 15:22;Király 14;;;;;80.00;;;;;;233286;Central base w/ Private Patio | Pink Flamingo
+25601903;Katerina Kechagia;2024.05.25;2024.05.29;airbnbOfficial;630.00;EUR;509.98;5;4;new;2024.03.16 8:00;Bajcsy 19;;;;;80.00;;0.00;Paid;630;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23386188;Somogyi Andrea;2024.05.25;2024.05.26;bookingcom;85.00;EUR;;4;1;new;2024.01.03 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;85.00;233289;Cosy new flat in Palace District | Pink Flamingo
+27124488;Gabriella Davies;2024.05.26;2024.05.30;airbnbOfficial;190.00;EUR;161.5;2;4;new;2024.04.25 9:44;Ant Dohany 37 / 2 (anyag);;;;;50.00;;0.00;Paid;190;0.00;257800;Minimal Loft | Pink Flamingo
+27105662;Tzu Ching Wang;2024.05.26;2024.05.29;airbnbOfficial;155.00;EUR;131.75;2;3;new;2024.04.24 21:10;Ant Dohany 37 / 1 (fa);;;;;50.00;;0.00;Paid;155;0.00;257801;Unique Style Loft | Pink Flamingo
+26330417;Kitti Szabados;2024.05.26;2024.05.27;airbnbOfficial;87.00;EUR;0;4;1;cancelled;2024.04.03 18:08;Vas 4 / 2;;;;;47.00;;-46.43;;87;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+26329805;Kitti;2024.05.26;2024.05.27;airbnbOfficial;40.00;EUR;;4;1;inquiryPreapproved;2024.04.03 18:00;Vas 4 / 2;;;;;47.33;;;;;;233289;Cosy new flat in Palace District | Pink Flamingo
+24806777;Julie Rosser;2024.05.27;2024.05.31;airbnbOfficial;478.88;EUR;407.05;4;4;new;2024.02.25 15:37;Bajcsy59;;;;;78.88;;0.00;Paid;478.88;0.00;233291;Brand new modern flat | Pink Flamingo
+23385117;Yoko Yamamoto;2024.05.27;2024.05.31;airbnbOfficial;133600.00;HUF;108149;3;4;new;2023.12.24 18:27;Király 14;;;;;12000.00;;0.00;Paid;133600;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+27270479;Ori Leonzini;2024.05.28;2024.06.01;airbnbOfficial;245.00;EUR;208.25;2;4;new;2024.04.29 11:38;Ant Jokai 12 / 2 (rozsaszin);;;;;50.00;;0.00;Paid;245;0.00;257798;Trendy Loft Home in Center | Pink Flamingo
+26551537;Ruslan Nasibullin Daria Aldoshkina Nikita Aldoshkin Kristina Larchenko David Nasibullin Natalia Lykhina Rasul Mambetov Alisa Selezneva Sergei Kuprianov;2024.05.28;2024.06.06;bookingcom;1068.11;EUR;;9;9;modified;2024.04.09 11:07;Gyulai Pal 12;155.24;bangkok, KG;bangkok;KG;80.00;1124755101;;Paid;1068.11;0.00;233285;Palace District /w Gallery | Pink Flamingo
+25306363;Ada Karvonen;2024.05.28;2024.05.31;airbnbOfficial;0.00;EUR;0;3;3;cancelled;2024.03.08 19:43;Vas 4 / 2;;;;;47.33;;0.00;;257.33;-257.33;233289;Cosy new flat in Palace District | Pink Flamingo
+27442105;Sean;2024.05.29;2024.06.02;airbnbOfficial;200.00;EUR;;2;4;inquiry;2024.05.03 16:10;Ant ÚJ Jokai 12 / 1 (kek);;;;;50.00;;;;;;264956;Cosy Quiet Loft | Pink Flamingo
+27323859;Charlie Dancer;2024.05.29;2024.05.31;airbnbOfficial;120.00;EUR;102;2;2;new;2024.04.30 17:54;Ant Dohany 37 / 1 (fa);;;;;50.00;;0.00;Paid;120;0.00;257801;Unique Style Loft | Pink Flamingo
+27051681;Lo Duca Caterina;2024.05.29;2024.06.01;bookingcom;167.97;EUR;;3;3;new;2024.04.23 14:10;Lovag 8;24.60;., IT;.;IT;;1125782101;;Paid;167.97;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+26522101;Efrat Alon-Dvir;2024.05.30;2024.06.04;airbnbOfficial;1010.00;EUR;817.6;4;5;new;2024.04.08 18:30;Bajcsy 19;;;;;80.00;;0.00;Paid;1010;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+26375178;Neil Marsham;2024.05.31;2024.06.02;airbnbOfficial;508.88;EUR;432.55;4;2;new;2024.04.04 19:25;Bajcsy59;;;;;78.88;;0.00;Paid;508.88;0.00;233291;Brand new modern flat | Pink Flamingo
+23386194;KRZYSZTOF KNAP;2024.05.31;2024.06.02;bookingcom;153.00;EUR;;3;2;new;2023.12.25 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;153.00;233289;Cosy new flat in Palace District | Pink Flamingo
+27274309;Kevin;2024.06.01;2024.06.05;airbnbOfficial;425.00;EUR;;5;4;inquiry;2024.04.29 14:04;Király 14;;;;;80.00;;;;;;233286;Central base w/ Private Patio | Pink Flamingo
+23386189;Katrina Dakic;2024.06.02;2024.06.04;bookingcom;153.00;EUR;;2;2;new;2023.12.27 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;153.00;233289;Cosy new flat in Palace District | Pink Flamingo
+27450155;Brook Campbell;2024.06.05;2024.06.23;airbnbOfficial;1265.00;EUR;1075.25;1;18;new;2024.05.03 20:24;Ant ÚJ Jokai 12 / 1 (kek);;;;;50.00;;0.00;Paid;1265;0.00;264956;Cosy Quiet Loft | Pink Flamingo
+27183117;Jonathan Bacconnet;2024.06.07;2024.06.09;airbnbOfficial;400.00;EUR;340;10;2;new;2024.04.26 20:58;Gyulai Pal 12;;;;;100.00;;0.00;Paid;400;0.00;233285;Palace District /w Gallery | Pink Flamingo
+23386168;Magdalena Buczkowska;2024.06.08;2024.06.09;bookingcom;85.00;EUR;;4;1;new;2023.12.23 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;85.00;233289;Cosy new flat in Palace District | Pink Flamingo
+26622894;Peter Zaar;2024.06.13;2024.06.17;airbnbOfficial;800.00;EUR;680;10;4;new;2024.04.11 8:11;Gyulai Pal 12;;;;;100.00;;0.00;Paid;800;0.00;233285;Palace District /w Gallery | Pink Flamingo
+27514458;Ahmad Atamna;2024.06.14;2024.06.21;airbnbOfficial;1655.00;EUR;1406.75;3;7;new;2024.05.05 18:43;Bajcsy 19 / 2;;;;;0.00;;0.00;Paid;1655;0.00;264441;Balcony Basilica Luxury Penthouse | Pink Flamingo
+27443336;Ahmad;2024.06.14;2024.06.21;airbnbOfficial;1950.00;EUR;;3;7;expired;2024.05.03 17:07;Bajcsy 19 / 2;;;;;80.00;;;;;;264441;Balcony Basilica Luxury Penthouse | Pink Flamingo
+27402428;Galia Yaari;2024.06.14;2024.06.17;bookingcom;368.71;EUR;;2;3;new;2024.05.02 15:35;Ant Dohany 37 / 2 (anyag);53.70;IL;;IL;50.00;1186975101;;Paid;368.71;0.00;257800;Minimal Loft | Pink Flamingo
+26661025;Oana Maior;2024.06.14;2024.06.17;bookingcom;322.15;EUR;;4;3;new;2024.04.12 10:26;Lovag 8;46.95;RO;;RO;50.00;1125782101;;Paid;322.15;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+26606491;Victor Wiberg;2024.06.14;2024.06.18;airbnbOfficial;830.00;EUR;705.5;4;4;new;2024.04.10 19:40;Nagymezo 36;;;;;80.00;;0.00;Paid;830;0.00;248112;Hard Rock BnB | Pink Flamingo
+26340349;Mary Wong;2024.06.14;2024.06.17;airbnbOfficial;860.00;EUR;696.16;5;3;new;2024.04.03 22:41;Bajcsy 19;;;;;80.00;;0.00;Paid;860;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23386537;Hardeep Singh;2024.06.14;2024.06.17;bookingcom;0.00;EUR;;1;3;cancelled;2024.01.18 11:54;Lovag 8;29.19;IN;;IN;35.00;1125782101;;;200.15;-200.15;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+27418819;Paula Osorio;2024.06.15;2024.06.18;airbnbOfficial;310.00;EUR;263.5;2;3;new;2024.05.03 0:20;Ant Jokai 12 / 2 (rozsaszin);;;;;50.00;;0.00;Paid;310;0.00;257798;Trendy Loft Home in Center | Pink Flamingo
+26809954;Maria Lichosytova;2024.06.15;2024.06.17;bookingcom;260.06;EUR;;2;2;new;2024.04.16 16:04;Ant Dohany 37 / 1 (fa);37.95;., CZ;.;CZ;50.00;1186965201;;Paid;260.06;0.00;257801;Unique Style Loft | Pink Flamingo
+23421268;Yaron Messas;2024.06.15;2024.06.17;airbnbOfficial;149176.00;HUF;120758;5;2;new;2023.09.26 18:31;Bajcsy59;;;;;15000.00;;0.00;Paid;149176;0.00;233291;Brand new modern flat | Pink Flamingo
+23386171;francesco balletta;2024.06.15;2024.06.17;bookingcom;144.50;EUR;;2;2;new;2023.11.07 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;144.50;233289;Cosy new flat in Palace District | Pink Flamingo
+23385992;niccolo apigalli;2024.06.15;2024.06.19;bookingcom;623.68;EUR;;5;4;new;2024.01.18 11:26;Király 14;90.66;IT;;IT;50.00;1125830001;;Paid;623.68;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+27146142;Junita;2024.06.16;2024.06.23;airbnbOfficial;1950.00;EUR;;4;7;inquiry;2024.04.25 21:22;Bajcsy 19 / 2;;;;;80.00;;;;;;264441;Balcony Basilica Luxury Penthouse | Pink Flamingo
+26988605;Orr;2024.06.16;2024.06.21;airbnbOfficial;425.00;EUR;;2;5;inquiry;2024.04.21 20:52;Ant Dohany 37 / 2 (anyag);;;;;50.00;;;;;;257800;Minimal Loft | Pink Flamingo
+23580799;linards zakis;2024.06.16;2024.06.20;bookingcom;407.62;EUR;;2;4;new;2024.01.23 17:35;Vas 4 / 1;59.34;LV;;LV;50.00;1070106301;;Paid;407.62;0.00;233288;New bright flat with terrace | Pink Flamingo
+27323424;Apurv Kansal;2024.06.17;2024.06.20;airbnbOfficial;680.00;EUR;578;4;3;new;2024.04.30 17:40;Bajcsy 43;;;;;80.00;;0.00;Paid;680;0.00;263226;Stylish Avenue Heaven | Pink Flamingo
+27253592;Adrià;2024.06.17;2024.06.20;airbnbOfficial;750.00;EUR;;4;3;inquiry;2024.04.29 0:28;Bajcsy 19 / 2;;;;;80.00;;;;;;264441;Balcony Basilica Luxury Penthouse | Pink Flamingo
+26636795;Veronika Kasianenko;2024.06.17;2024.06.19;bookingcom;163.83;EUR;;2;2;new;2024.04.11 16:52;Lovag 8;24.00;UA;;UA;50.00;1125782101;;Paid;163.83;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+26385934;Abdullatif Alabdullatif;2024.06.17;2024.06.20;bookingcom;505.30;EUR;;5;3;new;2024.04.05 1:16;Gyulai Pal 12;73.65;., SA;.;SA;80.00;1124755101;;Paid;505.3;0.00;233285;Palace District /w Gallery | Pink Flamingo
+25549117;Conor French;2024.06.17;2024.06.20;airbnbOfficial;920.00;EUR;744.74;4;3;new;2024.03.14 22:21;Bajcsy 19;;;;;80.00;;0.00;Paid;920;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23386169;Veronika Morgošová;2024.06.17;2024.06.19;bookingcom;153.00;EUR;;4;2;new;2023.12.12 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;153.00;233289;Cosy new flat in Palace District | Pink Flamingo
+27444313;Maria Sanchez O'Mullony Martinez;2024.06.18;2024.06.20;airbnbOfficial;210.00;EUR;178.5;2;2;new;2024.05.03 17:16;Ant Jokai 12 / 2 (rozsaszin);;;;;50.00;;0.00;Paid;210;0.00;257798;Trendy Loft Home in Center | Pink Flamingo
+23421270;Carolyn Quayle;2024.06.18;2024.06.20;airbnbOfficial;149176.00;HUF;120759;4;2;new;2023.09.26 0:50;Bajcsy59;;;;;15000.00;;0.00;Paid;149176;0.00;233291;Brand new modern flat | Pink Flamingo
+26866883;Laurence Malagar;2024.06.19;2024.06.21;airbnbOfficial;270.00;EUR;229.5;5;2;new;2024.04.18 2:41;Király 14;;;;;80.00;;0.00;Paid;270;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+26782784;William Vallely;2024.06.19;2024.06.22;airbnbOfficial;605.00;EUR;514.25;4;3;new;2024.04.15 21:57;Nagymezo 36;;;;;80.00;;0.00;Paid;605;0.00;248112;Hard Rock BnB | Pink Flamingo
+23398066;Karla Matesic;2024.06.19;2024.06.21;bookingcom;171.59;EUR;;4;2;modified;2024.01.18 18:06;Lovag 8;25.05;., HR;.;HR;35.00;1125782101;;Paid;171.59;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+23386193;Maurice Lange;2024.06.19;2024.06.21;bookingcom;170.00;EUR;;4;2;new;2023.12.18 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;170.00;233289;Cosy new flat in Palace District | Pink Flamingo
+27200820;Lahiru Antony;2024.06.21;2024.06.23;airbnbOfficial;400.00;EUR;340;9;2;new;2024.04.27 11:29;Gyulai Pal 12;;;;;100.00;;0.00;Paid;400;0.00;233285;Palace District /w Gallery | Pink Flamingo
+26610106;Rebecca Leach;2024.06.21;2024.06.27;airbnbOfficial;1340.00;EUR;1084.73;3;6;new;2024.04.10 21:31;Bajcsy 19;;;;;80.00;;0.00;Paid;1340;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23391781;Lea Szabo Bodon;2024.06.21;2024.06.24;bookingcom;200.15;EUR;;4;3;modified;2024.01.18 15:15;Lovag 8;29.19;SK;;SK;35.00;1125782101;;Paid;200.15;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+26908591;לירון גרוס;2024.06.23;2024.06.28;airbnbOfficial;673.75;EUR;572.69;6;5;new;2024.04.19 7:31;Király 14;;;;;80.00;;0.00;Paid;673.75;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+26871162;לירון;2024.06.23;2024.06.28;airbnbOfficial;625.00;EUR;;6;5;inquiry;2024.04.18 6:06;Király 14;;;;;80.00;;;;;;233286;Central base w/ Private Patio | Pink Flamingo
+27026783;Even Vogt-Eiborg;2024.06.25;2024.07.02;airbnbOfficial;842.50;EUR;716.12;7;7;new;2024.04.22 21:34;Gyulai Pal 12;;;;;100.00;;0.00;Paid;842.5;0.00;233285;Palace District /w Gallery | Pink Flamingo
+26884984;Mustafa AlHubail;2024.06.26;2024.06.29;airbnbOfficial;653.88;EUR;555.8;1;3;new;2024.04.18 15:55;Bajcsy59;;;;;78.88;;0.00;Paid;653.88;0.00;233291;Brand new modern flat | Pink Flamingo
+26858507;Mustafa;2024.06.26;2024.06.29;airbnbOfficial;653.88;EUR;0;1;3;cancelled;2024.04.17 21:17;Bajcsy59;;;;;78.88;;0.00;;;;233291;Brand new modern flat | Pink Flamingo
+27208092;Jonathan Kogan;2024.06.28;2024.07.02;airbnbOfficial;673.75;EUR;572.69;5;4;modified;2024.04.27 16:51;Király 14;;;;;80.00;;0.00;Paid;673.75;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+23386192;Paloma Toledano;2024.06.29;2024.07.01;bookingcom;158.32;EUR;;3;2;modified;2023.12.24 0:00;Vas 4 / 2;22.95;ES;;ES;;1070106303;;Paid;158.32;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+27520270;Aniko;2024.07.01;2024.07.06;airbnbOfficial;1350.00;EUR;;3;5;inquiry;2024.05.05 22:10;Bajcsy 43;;;;;80.00;;;;;;263226;Stylish Avenue Heaven | Pink Flamingo
+23386165;Gábor Kreszta;2024.07.03;2024.07.08;bookingcom;382.50;EUR;;3;5;new;2023.12.14 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;382.50;233289;Cosy new flat in Palace District | Pink Flamingo
+23385308;Spiteri Ayrton Senna;2024.07.05;2024.07.10;bookingcom;340.00;EUR;;3;5;new;2023.12.22 0:00;Lovag 8;;;;;;1125782101;;Unknown;0;340.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+23385203;Zvjezdana Grahovac;2024.07.05;2024.07.07;bookingcom;192.00;EUR;;6;2;new;2023.12.22 0:00;Király 14;;;;;;1125830001;;Unknown;0;192.00;233286;Central base w/ Private Patio | Pink Flamingo
+27245317;Jacques Lombard;2024.07.06;2024.07.09;bookingcom;478.39;EUR;;8;3;new;2024.04.28 19:54;Gyulai Pal 12;69.75;ZA;;ZA;80.00;1124755101;;Paid;478.39;0.00;233285;Palace District /w Gallery | Pink Flamingo
+23385199;Maria Garcia Cabezas;2024.07.08;2024.07.11;bookingcom;288.00;EUR;;6;3;new;2023.12.22 0:00;Király 14;;;;;;1125830001;;Unknown;0;288.00;233286;Central base w/ Private Patio | Pink Flamingo
+26874634;Arnau Saez;2024.07.09;2024.07.11;airbnbOfficial;400.00;EUR;340;9;2;new;2024.04.18 9:16;Gyulai Pal 12;;;;;100.00;;0.00;Paid;400;0.00;233285;Palace District /w Gallery | Pink Flamingo
+23386185;Voiash Discover;2024.07.09;2024.07.11;bookingcom;170.00;EUR;;4;2;new;2023.12.15 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;170.00;233289;Cosy new flat in Palace District | Pink Flamingo
+27262187;Fabio Frigato;2024.07.12;2024.07.14;airbnbOfficial;400.00;EUR;340;9;2;new;2024.04.29 6:51;Gyulai Pal 12;;;;;100.00;;0.00;Paid;400;0.00;233285;Palace District /w Gallery | Pink Flamingo
+23386179;Serdar Çapar;2024.07.12;2024.07.16;bookingcom;272.00;EUR;;1;4;new;2023.12.18 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;272.00;233289;Cosy new flat in Palace District | Pink Flamingo
+26858315;Arif Onur Yıldırım;2024.07.16;2024.07.19;airbnbOfficial;550.00;EUR;467.5;9;3;new;2024.04.17 21:09;Gyulai Pal 12;;;;;100.00;;0.00;Paid;550;0.00;233285;Palace District /w Gallery | Pink Flamingo
+23466081;Ian Snaith;2024.07.17;2024.07.22;bookingcom;1515.45;EUR;;4;5;modified;2024.01.20 16:19;Bajcsy 19;220.08;GB;;GB;80.00;1129222401;;Paid;1515.45;0.00;233307;KING BED Basilica Panorama Luxury | Pink Flamingo
+23386161;Karol Szkopiński;2024.07.18;2024.07.22;bookingcom;216.76;EUR;;2;4;new;2023.08.30 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;216.76;233289;Cosy new flat in Palace District | Pink Flamingo
+23385474;Winnie Molin Nilsson;2024.07.18;2024.07.23;airbnbOfficial;203950.00;HUF;0;2;5;cancelled;2023.11.07 19:17;Vas 4 / 1;;;;;12000.00;;0.00;;203950;0.00;233288;New bright flat with terrace | Pink Flamingo
+23385297;Claudia Sica;2024.07.18;2024.07.21;airbnbOfficial;150000.00;HUF;121425;4;3;new;2023.12.13 23:11;Lovag 8;;;;;0.00;;0.00;Paid;150000;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+23385118;Andreas Michael;2024.07.18;2024.07.22;airbnbOfficial;316000.00;HUF;255801;5;4;new;2023.12.12 22:18;Király 14;;;;;12000.00;;0.00;Paid;316000;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+26203384;Zoltan Rago;2024.07.19;2024.07.21;bookingcom;1218.26;EUR;;10;2;new;2024.03.31 16:25;Gyulai Pal 12;177.00;., RO;.;RO;80.00;1124755101;;Paid;1218.26;0.00;233285;Palace District /w Gallery | Pink Flamingo
+23421272;Jessica Sedgwick;2024.07.19;2024.07.21;airbnbOfficial;149176.00;HUF;120759;4;2;new;2023.10.26 9:31;Bajcsy59;;;;;15000.00;;0.00;Paid;149176;0.00;233291;Brand new modern flat | Pink Flamingo
+26752465;Tony Dang;2024.07.20;2024.07.24;airbnbOfficial;1180.00;EUR;1003;5;4;new;2024.04.15 2:59;Nagymezo 36;;;;;80.00;;0.00;Paid;1180;0.00;248112;Hard Rock BnB | Pink Flamingo
+23386187;Waldon Julian;2024.07.22;2024.07.28;bookingcom;0.00;EUR;;1;6;cancelled;2023.12.24 0:00;Vas 4 / 2;;., PL;.;PL;;1070106303;;;;;233289;Cosy new flat in Palace District | Pink Flamingo
+27176099;Charline Dessy;2024.07.23;2024.07.28;airbnbOfficial;875.00;EUR;743.75;10;5;new;2024.04.26 16:59;Gyulai Pal 12;;;;;100.00;;0.00;Paid;875;0.00;233285;Palace District /w Gallery | Pink Flamingo
+23386196;Juan Garcia-Olmo Muñoz;2024.07.28;2024.07.30;bookingcom;170.00;EUR;;4;2;new;2023.12.18 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;170.00;233289;Cosy new flat in Palace District | Pink Flamingo
+27435277;Carlos Molina;2024.07.29;2024.08.02;airbnbOfficial;700.00;EUR;595;8;4;new;2024.05.03 12:19;Gyulai Pal 12;;;;;100.00;;0.00;Paid;700;0.00;233285;Palace District /w Gallery | Pink Flamingo
+23386190;Daan Boesjes;2024.08.04;2024.08.05;bookingcom;85.00;EUR;;4;1;new;2024.01.02 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;85.00;233289;Cosy new flat in Palace District | Pink Flamingo
+23426943;Lisa Trost;2024.08.06;2024.08.14;bookingcom;765.24;EUR;;2;8;new;2024.01.19 12:54;Vas 4 / 1;111.18;., AT;.;AT;50.00;1070106301;;Paid;765.24;0.00;233288;New bright flat with terrace | Pink Flamingo
+23421273;Margot Darling;2024.08.06;2024.08.11;airbnbOfficial;350440.00;HUF;283681;4;5;new;2023.11.19 0:57;Bajcsy59;;;;;15000.00;;0.00;Paid;350440;0.00;233291;Brand new modern flat | Pink Flamingo
+23395959;Lisa Schwenke;2024.08.06;2024.08.11;bookingcom;0.00;EUR;;1;5;cancelled;2024.01.18 17:23;Vas 4 / 1;72.30;., DE;.;DE;50.00;1070106301;;;497.03;-497.03;233288;New bright flat with terrace | Pink Flamingo
+23386170;Pedro Marco Bimbo;2024.08.06;2024.08.07;bookingcom;68.85;EUR;;3;1;new;2023.12.27 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;68.85;233289;Cosy new flat in Palace District | Pink Flamingo
+23385307;Sumeyye Sahin;2024.08.06;2024.08.13;bookingcom;404.60;EUR;;3;7;new;2023.12.21 0:00;Lovag 8;;;;;;1125782101;;Unknown;0;404.60;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+23386163;Wiktoria Michalkiewicz;2024.08.07;2024.08.13;bookingcom;510.00;EUR;;4;6;new;2023.12.12 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;510.00;233289;Cosy new flat in Palace District | Pink Flamingo
+23385202;Natalia Krawczyk;2024.08.07;2024.08.13;bookingcom;576.00;EUR;;4;6;new;2023.12.21 0:00;Király 14;;;;;;1125830001;;Unknown;0;576.00;233286;Central base w/ Private Patio | Pink Flamingo
+23386195;İ.Bülent Helva;2024.08.15;2024.08.17;bookingcom;153.00;EUR;;3;2;new;2023.12.13 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;153.00;233289;Cosy new flat in Palace District | Pink Flamingo
+23386178;Enric Bague;2024.08.17;2024.08.20;bookingcom;255.00;EUR;;4;3;new;2023.12.30 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;255.00;233289;Cosy new flat in Palace District | Pink Flamingo
+23386186;NEUS VIVAN LOPEZ;2024.08.21;2024.08.25;bookingcom;366.64;EUR;;3;4;modified;2023.12.19 0:00;Vas 4 / 2;53.40;ES;;ES;;1070106303;;Paid;366.64;0.00;233289;Cosy new flat in Palace District | Pink Flamingo
+23386485;Anna Feketeova;2024.08.29;2024.08.31;bookingcom;135.58;EUR;;2;2;new;2024.01.18 11:52;Lovag 8;19.83;SK;;SK;35.00;1125782101;;Paid;135.58;0.00;233287;Leo Lane Getaway w/ Balcony | Pink Flamingo
+23385119;Bert Maes;2024.09.01;2024.09.05;airbnbOfficial;139600.00;HUF;113005;3;4;new;2024.01.10 17:40;Király 14;;;;;18000.00;;0.00;Paid;139600;0.00;233286;Central base w/ Private Patio | Pink Flamingo
+23421274;Bradley Smith;2024.09.19;2024.09.22;airbnbOfficial;216264.00;HUF;175064;4;3;new;2024.01.05 23:31;Bajcsy59;;;;;15000.00;;0.00;Paid;216264;0.00;233291;Brand new modern flat | Pink Flamingo
+23386166;Victoria Hogg;2024.11.28;2024.12.02;bookingcom;289.00;EUR;;2;4;new;2023.11.19 0:00;Vas 4 / 2;;;;;;1070106303;;Unknown;0;289.00;233289;Cosy new flat in Palace District | Pink Flamingo
