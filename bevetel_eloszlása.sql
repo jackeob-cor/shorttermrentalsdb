@@ -7,7 +7,7 @@ SELECT listings.Street AS Appartman,
            )
        ) AS [Teljes bevétel]
 FROM reservations 
-INNER JOIN listings ON reservations.[ListingMap ID] = listings.[Listing Map Id]
+INNER JOIN listings ON reservations.[ListingMap ID] = listings.[Listing_Map_Id]
 WHERE reservations.Currency IN ('EUR', 'HUF')
 GROUP BY listings.Street
 HAVING SUM(
