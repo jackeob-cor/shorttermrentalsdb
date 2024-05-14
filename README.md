@@ -1,5 +1,20 @@
 Készitok: Jakab Boldizsár (lymyr6) és Csaba Domjan [CZNUFN]
 
+Az adatbazis leirása:
+
+Adatbazisunk egy Budapest belvarosaban tevekenykedo, maganszallashely uzemelteto ceg,
+a szolgaltatoktol (Airbnb, Booking.com, Channel Manager Szoftver), csv formatumban
+kiexportalt adatai felhasznalasav keszult.
+A tablak:
+reservations: - A foglalasok adatait;
+listings: - A szallashelyek adatait;
+reviews: - A korabbi vendegek altal kuldott visszajelzesek adatait;
+tasks: - Illetve a takaritasi feladatok reszletes adatait foglaljak magukban.
+
+
+
+
+# INFOK
 
 Szerintem ha VScodeban dolgozunk egyszerubb verziókövetés is és az mindkettonk gepen megy.
 
