@@ -1,4 +1,4 @@
-Készitok: Jakab Boldizsár (lymyr6) és Csaba Domjan [NEPTUN KODOD]
+Készitok: Jakab Boldizsár (lymyr6) és Csaba Domjan [CZNUFN]
 
 
 Szerintem ha VScodeban dolgozunk egyszerubb githubolas is és az mindkettonk gepen megy.
