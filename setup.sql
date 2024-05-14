@@ -3,8 +3,8 @@
 CREATE TABLE reservations (
     "Hostaway reservation ID" INTEGER,
     "Guest name" TEXT,
-    "Check-in date" TEXT,
-    "Check-out date" TEXT,
+    "Check-in date" DATE,
+    "Check-out date" DATE,
     "Channel" TEXT,
     "Total price" REAL,
     "Currency" TEXT,

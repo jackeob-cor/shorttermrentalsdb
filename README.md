@@ -1,7 +1,7 @@
 Készitok: Jakab Boldizsár (lymyr6) és Csaba Domjan [CZNUFN]
 
 
-Szerintem ha VScodeban dolgozunk egyszerubb githubolas is és az mindkettonk gepen megy.
+Szerintem ha VScodeban dolgozunk egyszerubb verziókövetés is és az mindkettonk gepen megy.
 
 1. Telepiteni 2 extensiont vscodehoz, hogy tudj benne lekerdezesek csinalni:
 - sqlite
@@ -15,3 +15,6 @@ Szerintem ha VScodeban dolgozunk egyszerubb githubolas is és az mindkettonk gep
 4. Csinalni lekerdezeknek kulon fajlokat pl "query1.sql"
 
 5. igy lehet ezeket futtatni terminalban:     `.read query1.sql`
+
+
+## 2024.05.14. Lekerdezesekben es adatbazisban is javitottam datum adattipusokat

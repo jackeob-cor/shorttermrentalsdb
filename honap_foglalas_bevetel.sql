@@ -1,6 +1,6 @@
 SELECT 
-    MONTH(reservations.[Check-in date]) AS [Hónap száma], 
-    YEAR(reservations.[Check-in date]) AS [Év], 
+    MONTH(reservations.[check_in_date]) AS [Hónap száma], 
+    YEAR(reservations.[check_in_date]) AS [Év], 
     SUM(
         IIF(reservations.Currency = 'HUF', 
             (reservations.[Total price] / 386), 
@@ -16,8 +16,8 @@ SELECT
 FROM 
     reservations
 WHERE 
-    reservations.[Check-in date] IS NOT NULL
+    reservations.[check_in_date] IS NOT NULL
 GROUP BY 
-    MONTH(reservations.[Check-in date]), YEAR(reservations.[Check-in date])
+    MONTH(reservations.[check_in_date]), YEAR(reservations.[check_in_date])
 ORDER BY 
-    YEAR(reservations.[Check-in date]), MONTH(reservations.[Check-in date]);
+    YEAR(reservations.[check_in_date]), MONTH(reservations.[check_in_date]);
